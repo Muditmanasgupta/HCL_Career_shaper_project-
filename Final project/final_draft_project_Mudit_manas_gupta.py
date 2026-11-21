@@ -1,3 +1,6 @@
+# GIT REPO LINL https://github.com/Muditmanasgupta/HCL_Career_shaper_project-
+# MUDIT MANAS GUPTA 
+# 2026B01010171
 import pandas as pd
 import numpy as np
 
