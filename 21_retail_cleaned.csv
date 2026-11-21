@@ -1,0 +1,1001 @@
+Order_ID,Customer_ID,Order_Date,Product_Name,Category,Quantity,Unit_Price,Payment_Method,Year,Month,Month_Name,Weekday,Order_Value,Order_Band
+OR000000,CU00453,2025-05-13,Monitor,Office,2.0,26957.15,Credit Card,2025,5,May,Tuesday,53914.3,Medium
+OR000001,CU00425,2026-09-18,Desk Lamp,Office,8.0,9829.34,UPI,2026,9,September,Friday,78634.72,Medium
+OR000002,CU00129,2025-08-25,Monitor,Accessories,1.0,21707.72,Net Banking,2025,8,August,Monday,21707.72,Low
+OR000003,CU00096,2025-01-01,Wireless Mouse,Home,4.0,1121.3,Cash,2025,1,January,Wednesday,4485.2,Low
+OR000004,CU00499,2025-03-23,Headphones,Electronics,5.0,27639.23,Net Banking,2025,3,March,Sunday,138196.15,High
+OR000005,CU00468,2025-11-04,Monitor,Electronics,8.0,12335.48,Cash,2025,11,November,Tuesday,98683.84,Medium
+OR000006,CU00294,2025-11-28,Keyboard,Home,5.0,5440.26,Credit Card,2025,11,November,Friday,27201.300000000003,Medium
+OR000007,CU00348,2026-02-21,Desk Lamp,Home,9.0,29439.23,Credit Card,2026,2,February,Saturday,264953.07,High
+OR000008,CU00126,2025-04-24,Laptop Stand,Accessories,6.0,22279.03,Credit Card,2025,4,April,Thursday,133674.18,High
+OR000009,CU00309,2025-03-08,Webcam,Accessories,7.0,23824.49,Cash,2025,3,March,Saturday,166771.43000000002,High
+OR000010,CU00345,2025-06-20,Headphones,Office,9.0,15074.68,Debit Card,2025,6,June,Friday,135672.12,High
+OR000011,CU00149,2025-02-07,Headphones,Office,8.0,20685.71,Net Banking,2025,2,February,Friday,165485.68,High
+OR000012,CU00367,2025-02-09,Headphones,Electronics,7.0,8797.27,Cash,2025,2,February,Sunday,61580.89,Medium
+OR000013,CU00189,2026-03-04,Webcam,Accessories,8.0,15591.01,Credit Card,2026,3,March,Wednesday,124728.08,High
+OR000014,CU00266,2025-07-24,USB Hub,Office,8.0,11480.24,Net Banking,2025,7,July,Thursday,91841.92,Medium
+OR000015,CU00023,2025-04-16,Webcam,Office,7.0,15462.925,Debit Card,2025,4,April,Wednesday,108240.47499999999,Medium
+OR000016,CU00066,2025-04-20,Laptop Stand,Home,5.0,228.11,Credit Card,2025,4,April,Sunday,1140.5500000000002,Low
+OR000017,CU00315,2026-06-20,Webcam,Home,5.0,24344.38,Credit Card,2026,6,June,Saturday,121721.90000000001,High
+OR000018,CU00407,2026-04-04,Webcam,Electronics,2.0,6616.61,Cash,2026,4,April,Saturday,13233.22,Low
+OR000019,CU00284,2025-01-31,Keyboard,Office,6.0,14259.49,UPI,2025,1,January,Friday,85556.94,Medium
+OR000020,CU00405,2026-03-03,Headphones,Office,8.0,19802.35,Cash,2026,3,March,Tuesday,158418.8,High
+OR000021,CU00401,2026-02-16,USB Hub,Electronics,8.0,1129.84,UPI,2026,2,February,Monday,9038.72,Low
+OR000022,CU00382,2026-03-22,USB Hub,Electronics,5.0,10338.63,Cash,2026,3,March,Sunday,51693.149999999994,Medium
+OR000023,CU00413,2026-06-12,Monitor,Home,5.0,7988.38,Cash,2026,6,June,Friday,39941.9,Medium
+OR000024,CU00378,2026-03-29,Wireless Mouse,Electronics,7.0,4072.36,Debit Card,2026,3,March,Sunday,28506.52,Medium
+OR000025,CU00414,2026-04-22,Wireless Mouse,Accessories,9.0,24421.23,UPI,2026,4,April,Wednesday,219791.07,High
+OR000026,CU00191,2025-03-11,Monitor,Office,1.0,16294.67,Debit Card,2025,3,March,Tuesday,16294.67,Low
+OR000027,CU00197,2026-09-08,Webcam,Accessories,7.0,13742.36,Net Banking,2026,9,September,Tuesday,96196.52,Medium
+OR000028,CU00246,2025-05-24,Laptop Stand,Office,5.0,4061.25,Credit Card,2025,5,May,Saturday,20306.25,Low
+OR000029,CU00269,2026-05-22,USB Hub,Electronics,3.0,15471.52,Net Banking,2026,5,May,Friday,46414.56,Medium
+OR000030,CU00331,2026-05-09,USB Hub,Office,4.0,8095.03,UPI,2026,5,May,Saturday,32380.12,Medium
+OR000031,CU00273,2025-11-20,Headphones,Home,9.0,3884.95,Net Banking,2025,11,November,Thursday,34964.549999999996,Medium
+OR000032,CU00083,2025-11-19,Webcam,Office,3.0,15852.17,Credit Card,2025,11,November,Wednesday,47556.51,Medium
+OR000033,CU00197,2026-08-25,Monitor,Home,5.0,17567.775,Cash,2026,8,August,Tuesday,87838.875,Medium
+OR000034,CU00302,2026-02-26,Headphones,Accessories,7.0,1797.53,Credit Card,2026,2,February,Thursday,12582.71,Low
+OR000035,CU00015,2025-06-23,Wireless Mouse,Accessories,3.0,1780.64,Cash,2025,6,June,Monday,5341.92,Low
+OR000036,CU00055,2025-02-07,Webcam,Accessories,8.0,22183.64,Cash,2025,2,February,Friday,177469.12,High
+OR000037,CU00467,2025-03-31,Webcam,Accessories,1.0,6281.98,Debit Card,2025,3,March,Monday,6281.98,Low
+OR000038,CU00424,2025-09-16,USB Hub,Accessories,8.0,4693.76,Net Banking,2025,9,September,Tuesday,37550.08,Medium
+OR000039,CU00291,2026-03-22,Headphones,Accessories,7.0,28867.98,Net Banking,2026,3,March,Sunday,202075.86,High
+OR000040,CU00060,2025-10-21,Laptop Stand,Accessories,8.0,5481.92,UPI,2025,10,October,Tuesday,43855.36,Medium
+OR000041,CU00127,2026-05-26,Monitor,Electronics,1.0,20569.74,Net Banking,2026,5,May,Tuesday,20569.74,Low
+OR000042,CU00386,2026-04-09,Webcam,Accessories,8.0,15462.925,Cash,2026,4,April,Thursday,123703.4,High
+OR000043,CU00365,2026-04-20,Wireless Mouse,Electronics,3.0,9931.26,Debit Card,2026,4,April,Monday,29793.78,Medium
+OR000044,CU00111,2026-09-03,Desk Lamp,Home,8.0,13945.99,UPI,2026,9,September,Thursday,111567.92,Medium
+OR000045,CU00033,2025-02-23,Webcam,Home,4.0,16669.48,Cash,2025,2,February,Sunday,66677.92,Medium
+OR000046,CU00464,2026-01-20,Monitor,Accessories,7.0,6097.25,Credit Card,2026,1,January,Tuesday,42680.75,Medium
+OR000047,CU00361,2025-08-17,Desk Lamp,Home,9.0,8950.51,UPI,2025,8,August,Sunday,80554.59,Medium
+OR000048,CU00329,2026-05-25,Wireless Mouse,Accessories,7.0,28896.19,UPI,2026,5,May,Monday,202273.33,High
+OR000049,CU00436,2026-06-25,USB Hub,Accessories,1.0,8279.3,UPI,2026,6,June,Thursday,8279.3,Low
+OR000050,CU00216,2026-03-07,Headphones,Office,2.0,24388.31,Credit Card,2026,3,March,Saturday,48776.62,Medium
+OR000051,CU00054,2026-05-09,USB Hub,Home,2.0,16100.39,UPI,2026,5,May,Saturday,32200.78,Medium
+OR000052,CU00022,2026-09-01,Laptop Stand,Office,9.0,19407.18,Net Banking,2026,9,September,Tuesday,174664.62,High
+OR000053,CU00489,2026-01-08,Desk Lamp,Office,3.0,13771.81,Credit Card,2026,1,January,Thursday,41315.43,Medium
+OR000054,CU00303,2026-06-27,Webcam,Home,5.0,17689.95,Debit Card,2026,6,June,Saturday,88449.75,Medium
+OR000055,CU00370,2025-03-11,Monitor,Home,6.0,16248.98,Cash,2025,3,March,Tuesday,97493.88,Medium
+OR000056,CU00189,2025-06-15,Headphones,Office,3.0,14508.94,UPI,2025,6,June,Sunday,43526.82,Medium
+OR000057,CU00055,2026-08-31,Wireless Mouse,Accessories,4.0,24104.95,Credit Card,2026,8,August,Monday,96419.8,Medium
+OR000058,CU00399,2025-05-29,Wireless Mouse,Accessories,5.0,26418.37,UPI,2025,5,May,Thursday,132091.85,High
+OR000059,CU00397,2025-01-07,Webcam,Accessories,1.0,7741.04,Debit Card,2025,1,January,Tuesday,7741.04,Low
+OR000060,CU00396,2026-09-03,Wireless Mouse,Electronics,8.0,4162.06,Net Banking,2026,9,September,Thursday,33296.48,Medium
+OR000061,CU00259,2025-08-28,Webcam,Office,9.0,24355.44,Debit Card,2025,8,August,Thursday,219198.96,High
+OR000062,CU00343,2026-02-04,Laptop Stand,Home,7.0,6435.7,Debit Card,2026,2,February,Wednesday,45049.9,Medium
+OR000063,CU00157,2026-05-31,USB Hub,Electronics,4.0,26000.18,UPI,2026,5,May,Sunday,104000.72,Medium
+OR000064,CU00134,2025-10-28,Desk Lamp,Home,2.0,3167.79,Net Banking,2025,10,October,Tuesday,6335.58,Low
+OR000065,CU00017,2025-01-14,Laptop Stand,Office,3.0,2821.02,Debit Card,2025,1,January,Tuesday,8463.06,Low
+OR000066,CU00087,2026-04-14,Wireless Mouse,Home,4.0,5531.3,Debit Card,2026,4,April,Tuesday,22125.2,Low
+OR000067,CU00218,2026-03-14,Headphones,Office,2.0,454.22,Debit Card,2026,3,March,Saturday,908.44,Low
+OR000068,CU00249,2025-07-08,Monitor,Home,7.0,22454.31,Debit Card,2025,7,July,Tuesday,157180.17,High
+OR000069,CU00224,2026-03-17,Desk Lamp,Home,5.0,11974.78,UPI,2026,3,March,Tuesday,59873.9,Medium
+OR000070,CU00226,2026-06-25,Keyboard,Accessories,7.0,28364.37,Debit Card,2026,6,June,Thursday,198550.59,High
+OR000071,CU00109,2026-10-20,Headphones,Office,5.0,11023.02,Debit Card,2026,10,October,Tuesday,55115.100000000006,Medium
+OR000072,CU00336,2025-12-20,Monitor,Electronics,2.0,21119.63,Cash,2025,12,December,Saturday,42239.26,Medium
+OR000073,CU00222,2025-02-14,Laptop Stand,Home,6.0,20525.48,Debit Card,2025,2,February,Friday,123152.88,High
+OR000074,CU00266,2026-08-06,Headphones,Office,7.0,9808.86,Net Banking,2026,8,August,Thursday,68662.02,Medium
+OR000075,CU00294,2025-10-18,Webcam,Office,4.0,26790.13,Cash,2025,10,October,Saturday,107160.52,Medium
+OR000076,CU00247,2026-03-07,Wireless Mouse,Office,7.0,11996.51,UPI,2026,3,March,Saturday,83975.57,Medium
+OR000077,CU00275,2026-08-17,Desk Lamp,Office,9.0,16586.25,Net Banking,2026,8,August,Monday,149276.25,High
+OR000078,CU00240,2025-06-24,Wireless Mouse,Electronics,3.0,12006.06,Debit Card,2025,6,June,Tuesday,36018.18,Medium
+OR000079,CU00189,2025-01-03,Webcam,Office,9.0,13116.72,Cash,2025,1,January,Friday,118050.48,High
+OR000080,CU00252,2026-10-08,Keyboard,Office,3.0,1735.29,Credit Card,2026,10,October,Thursday,5205.87,Low
+OR000081,CU00340,2025-04-18,Headphones,Office,5.0,9375.02,Cash,2025,4,April,Friday,46875.100000000006,Medium
+OR000082,CU00436,2025-09-27,Webcam,Home,4.0,28455.16,Net Banking,2025,9,September,Saturday,113820.64,Medium
+OR000083,CU00049,2026-06-13,Monitor,Accessories,8.0,24960.05,UPI,2026,6,June,Saturday,199680.4,High
+OR000084,CU00086,2026-05-28,USB Hub,Electronics,7.0,26417.17,Cash,2026,5,May,Thursday,184920.19,High
+OR000085,CU00062,2025-04-21,USB Hub,Home,3.0,21413.99,Cash,2025,4,April,Monday,64241.97,Medium
+OR000086,CU00010,2025-06-20,Keyboard,Accessories,9.0,19632.09,Credit Card,2025,6,June,Friday,176688.81,High
+OR000087,CU00413,2026-04-06,Laptop Stand,Accessories,9.0,26967.83,Credit Card,2026,4,April,Monday,242710.47000000003,High
+OR000088,CU00111,2025-10-07,Monitor,Accessories,9.0,16182.09,Debit Card,2025,10,October,Tuesday,145638.81,High
+OR000089,CU00145,2025-12-03,Desk Lamp,Home,5.0,27487.29,Debit Card,2025,12,December,Wednesday,137436.45,High
+OR000090,CU00155,2026-05-09,Wireless Mouse,Electronics,7.0,12514.26,Debit Card,2026,5,May,Saturday,87599.82,Medium
+OR000091,CU00431,2026-07-30,Webcam,Electronics,5.0,17968.69,Net Banking,2026,7,July,Thursday,89843.45,Medium
+OR000092,CU00306,2026-04-11,Desk Lamp,Home,4.0,14203.1,Net Banking,2026,4,April,Saturday,56812.4,Medium
+OR000093,CU00053,2025-04-26,Headphones,Office,5.0,669.52,Net Banking,2025,4,April,Saturday,3347.6,Low
+OR000094,CU00421,2026-09-21,Keyboard,Office,1.0,6048.87,Debit Card,2026,9,September,Monday,6048.87,Low
+OR000095,CU00492,2026-01-12,Headphones,Accessories,2.0,27843.03,Cash,2026,1,January,Monday,55686.06,Medium
+OR000096,CU00356,2026-06-18,Webcam,Electronics,6.0,17983.2,UPI,2026,6,June,Thursday,107899.20000000001,Medium
+OR000097,CU00241,2026-02-14,Keyboard,Accessories,4.0,1492.39,UPI,2026,2,February,Saturday,5969.56,Low
+OR000098,CU00499,2025-08-05,Headphones,Home,5.0,29020.05,Cash,2025,8,August,Tuesday,145100.25,High
+OR000099,CU00022,2026-03-12,USB Hub,Office,9.0,27847.21,Cash,2026,3,March,Thursday,250624.88999999998,High
+OR000100,CU00001,2026-08-01,Monitor,Accessories,7.0,21388.53,UPI,2026,8,August,Saturday,149719.71,High
+OR000101,CU00390,2026-07-07,Keyboard,Electronics,1.0,8566.16,Cash,2026,7,July,Tuesday,8566.16,Low
+OR000102,CU00095,2026-09-09,Keyboard,Office,9.0,8919.8,Cash,2026,9,September,Wednesday,80278.2,Medium
+OR000103,CU00029,2025-02-06,Webcam,Electronics,8.0,25971.07,Cash,2025,2,February,Thursday,207768.56,High
+OR000104,CU00044,2026-10-01,Wireless Mouse,Office,2.0,1911.88,Debit Card,2026,10,October,Thursday,3823.76,Low
+OR000105,CU00225,2025-08-07,Desk Lamp,Accessories,8.0,7197.08,Cash,2025,8,August,Thursday,57576.64,Medium
+OR000106,CU00332,2026-08-26,Laptop Stand,Home,4.0,5075.35,Cash,2026,8,August,Wednesday,20301.4,Low
+OR000107,CU00222,2025-12-19,Webcam,Home,4.0,21518.24,Debit Card,2025,12,December,Friday,86072.96,Medium
+OR000108,CU00214,2026-04-11,Desk Lamp,Electronics,6.0,11514.57,Debit Card,2026,4,April,Saturday,69087.42,Medium
+OR000109,CU00074,2026-06-08,Webcam,Electronics,9.0,27486.86,Cash,2026,6,June,Monday,247381.74,High
+OR000110,CU00156,2026-06-17,Webcam,Office,4.0,24107.1,UPI,2026,6,June,Wednesday,96428.4,Medium
+OR000111,CU00472,2025-08-02,Webcam,Electronics,6.0,29541.27,Net Banking,2025,8,August,Saturday,177247.62,High
+OR000112,CU00157,2026-03-10,Wireless Mouse,Office,2.0,9040.07,Net Banking,2026,3,March,Tuesday,18080.14,Low
+OR000113,CU00172,2026-01-13,Webcam,Home,1.0,14300.26,Debit Card,2026,1,January,Tuesday,14300.26,Low
+OR000114,CU00446,2025-08-02,Webcam,Home,6.0,19828.41,Net Banking,2025,8,August,Saturday,118970.45999999999,High
+OR000115,CU00032,2025-01-26,Monitor,Home,3.0,29244.84,Cash,2025,1,January,Sunday,87734.52,Medium
+OR000116,CU00038,2026-06-30,Monitor,Home,1.0,10404.99,Debit Card,2026,6,June,Tuesday,10404.99,Low
+OR000117,CU00448,2025-10-10,Webcam,Accessories,1.0,9872.65,Debit Card,2025,10,October,Friday,9872.65,Low
+OR000118,CU00157,2025-06-02,Desk Lamp,Home,4.0,18840.08,Cash,2025,6,June,Monday,75360.32,Medium
+OR000119,CU00119,2025-08-14,Desk Lamp,Home,3.0,19991.82,Credit Card,2025,8,August,Thursday,59975.46,Medium
+OR000120,CU00250,2025-10-16,Webcam,Electronics,9.0,5749.52,Debit Card,2025,10,October,Thursday,51745.68000000001,Medium
+OR000121,CU00019,2026-10-29,Desk Lamp,Office,5.0,13688.78,Debit Card,2026,10,October,Thursday,68443.90000000001,Medium
+OR000122,CU00206,2025-08-18,Webcam,Accessories,5.0,11383.27,Debit Card,2025,8,August,Monday,56916.350000000006,Medium
+OR000123,CU00006,2025-03-31,Webcam,Electronics,2.0,12691.77,Debit Card,2025,3,March,Monday,25383.54,Low
+OR000124,CU00344,2025-04-26,Monitor,Accessories,1.0,4299.82,UPI,2025,4,April,Saturday,4299.82,Low
+OR000125,CU00426,2026-09-07,Monitor,Home,3.0,19479.54,Cash,2026,9,September,Monday,58438.62,Medium
+OR000126,CU00304,2026-06-19,Monitor,Accessories,8.0,5706.96,Debit Card,2026,6,June,Friday,45655.68,Medium
+OR000127,CU00091,2025-01-03,Keyboard,Electronics,6.0,859.93,UPI,2025,1,January,Friday,5159.58,Low
+OR000128,CU00400,2025-11-12,Headphones,Home,2.0,14930.02,Credit Card,2025,11,November,Wednesday,29860.04,Medium
+OR000129,CU00331,2025-06-30,Monitor,Electronics,1.0,1254.11,Debit Card,2025,6,June,Monday,1254.11,Low
+OR000130,CU00422,2025-12-19,Wireless Mouse,Accessories,3.0,13566.24,Cash,2025,12,December,Friday,40698.72,Medium
+OR000131,CU00456,2026-02-06,Desk Lamp,Electronics,3.0,17871.36,Credit Card,2026,2,February,Friday,53614.08,Medium
+OR000132,CU00200,2025-12-02,USB Hub,Electronics,9.0,17045.4,Net Banking,2025,12,December,Tuesday,153408.6,High
+OR000133,CU00486,2025-11-22,USB Hub,Home,2.0,2946.8,Cash,2025,11,November,Saturday,5893.6,Low
+OR000134,CU00433,2026-04-07,Desk Lamp,Office,7.0,3803.62,UPI,2026,4,April,Tuesday,26625.34,Medium
+OR000135,CU00293,2026-04-22,Monitor,Office,4.0,19994.91,UPI,2026,4,April,Wednesday,79979.64,Medium
+OR000136,CU00316,2025-04-28,Laptop Stand,Electronics,3.0,1062.99,Cash,2025,4,April,Monday,3188.9700000000003,Low
+OR000137,CU00225,2026-04-05,Keyboard,Office,2.0,3565.62,Debit Card,2026,4,April,Sunday,7131.24,Low
+OR000138,CU00430,2025-12-02,USB Hub,Electronics,6.0,22936.69,UPI,2025,12,December,Tuesday,137620.13999999998,High
+OR000139,CU00027,2025-10-01,Headphones,Electronics,7.0,5092.34,Net Banking,2025,10,October,Wednesday,35646.380000000005,Medium
+OR000140,CU00233,2025-06-24,Keyboard,Office,5.0,14922.58,UPI,2025,6,June,Tuesday,74612.9,Medium
+OR000141,CU00051,2026-01-06,USB Hub,Office,9.0,3045.25,Debit Card,2026,1,January,Tuesday,27407.25,Medium
+OR000142,CU00013,2026-10-13,Monitor,Home,9.0,7128.85,UPI,2026,10,October,Tuesday,64159.65,Medium
+OR000143,CU00470,2025-11-08,Monitor,Accessories,8.0,26393.06,Net Banking,2025,11,November,Saturday,211144.48,High
+OR000144,CU00329,2025-02-10,Wireless Mouse,Accessories,6.0,22620.77,Debit Card,2025,2,February,Monday,135724.62,High
+OR000145,CU00230,2025-06-12,Monitor,Home,5.0,5736.77,Cash,2025,6,June,Thursday,28683.850000000002,Medium
+OR000146,CU00483,2026-09-14,Webcam,Office,6.0,6515.3,Net Banking,2026,9,September,Monday,39091.8,Medium
+OR000147,CU00046,2026-06-21,Headphones,Home,5.0,14266.01,Credit Card,2026,6,June,Sunday,71330.05,Medium
+OR000148,CU00465,2025-02-10,Desk Lamp,Office,2.0,19005.56,Credit Card,2025,2,February,Monday,38011.12,Medium
+OR000149,CU00242,2026-06-23,Headphones,Electronics,6.0,17511.31,Cash,2026,6,June,Tuesday,105067.86000000002,Medium
+OR000150,CU00076,2025-03-15,Laptop Stand,Electronics,3.0,8611.16,Net Banking,2025,3,March,Saturday,25833.48,Low
+OR000151,CU00148,2025-07-20,USB Hub,Electronics,7.0,28407.56,UPI,2025,7,July,Sunday,198852.92,High
+OR000152,CU00245,2026-08-30,Keyboard,Office,1.0,25071.0,Debit Card,2026,8,August,Sunday,25071.0,Low
+OR000153,CU00403,2026-03-10,Monitor,Office,1.0,19583.24,Credit Card,2026,3,March,Tuesday,19583.24,Low
+OR000154,CU00436,2026-03-10,Laptop Stand,Electronics,6.0,27247.85,UPI,2026,3,March,Tuesday,163487.09999999998,High
+OR000155,CU00064,2025-05-24,Wireless Mouse,Accessories,8.0,8890.99,UPI,2025,5,May,Saturday,71127.92,Medium
+OR000156,CU00208,2025-08-06,Laptop Stand,Home,6.0,9063.18,Debit Card,2025,8,August,Wednesday,54379.08,Medium
+OR000157,CU00204,2025-03-04,Laptop Stand,Accessories,2.0,9339.43,UPI,2025,3,March,Tuesday,18678.86,Low
+OR000158,CU00259,2026-01-29,USB Hub,Office,3.0,4896.05,Cash,2026,1,January,Thursday,14688.150000000001,Low
+OR000159,CU00278,2025-11-22,Desk Lamp,Accessories,4.0,4284.14,UPI,2025,11,November,Saturday,17136.56,Low
+OR000160,CU00498,2025-04-22,Keyboard,Accessories,3.0,27286.97,Debit Card,2025,4,April,Tuesday,81860.91,Medium
+OR000161,CU00134,2025-07-15,Desk Lamp,Office,9.0,25746.52,Credit Card,2025,7,July,Tuesday,231718.68,High
+OR000162,CU00241,2025-02-13,Monitor,Accessories,5.0,16512.26,Debit Card,2025,2,February,Thursday,82561.29999999999,Medium
+OR000163,CU00138,2025-02-12,Headphones,Office,5.0,19852.44,UPI,2025,2,February,Wednesday,99262.2,Medium
+OR000164,CU00095,2025-02-02,Keyboard,Electronics,1.0,7231.34,UPI,2025,2,February,Sunday,7231.34,Low
+OR000165,CU00199,2025-08-04,USB Hub,Home,5.0,783.61,Credit Card,2025,8,August,Monday,3918.05,Low
+OR000166,CU00020,2025-06-30,Keyboard,Home,8.0,13303.43,Cash,2025,6,June,Monday,106427.44,Medium
+OR000167,CU00390,2025-05-07,USB Hub,Home,3.0,20119.26,Debit Card,2025,5,May,Wednesday,60357.78,Medium
+OR000168,CU00231,2025-05-01,Webcam,Home,8.0,20427.85,Credit Card,2025,5,May,Thursday,163422.8,High
+OR000169,CU00222,2026-09-28,Laptop Stand,Electronics,7.0,18167.62,Debit Card,2026,9,September,Monday,127173.34,High
+OR000170,CU00257,2025-09-27,Desk Lamp,Home,6.0,27768.63,Net Banking,2025,9,September,Saturday,166611.78,High
+OR000171,CU00260,2025-12-14,Webcam,Office,1.0,6358.84,Net Banking,2025,12,December,Sunday,6358.84,Low
+OR000172,CU00460,2026-08-10,Laptop Stand,Accessories,9.0,7982.33,Debit Card,2026,8,August,Monday,71840.97,Medium
+OR000173,CU00293,2026-10-30,USB Hub,Home,5.0,2480.86,Debit Card,2026,10,October,Friday,12404.300000000001,Low
+OR000174,CU00396,2025-09-11,Monitor,Home,6.0,28098.87,Credit Card,2025,9,September,Thursday,168593.22,High
+OR000175,CU00410,2026-05-30,Keyboard,Home,7.0,13694.31,Cash,2026,5,May,Saturday,95860.17,Medium
+OR000176,CU00032,2025-09-24,Wireless Mouse,Office,5.0,12110.39,Net Banking,2025,9,September,Wednesday,60551.95,Medium
+OR000177,CU00401,2025-06-29,USB Hub,Office,2.0,29570.77,Net Banking,2025,6,June,Sunday,59141.54,Medium
+OR000178,CU00408,2025-03-22,Desk Lamp,Accessories,6.0,12889.65,Credit Card,2025,3,March,Saturday,77337.9,Medium
+OR000179,CU00318,2025-08-22,USB Hub,Office,6.0,10111.78,Cash,2025,8,August,Friday,60670.68000000001,Medium
+OR000180,CU00035,2026-10-24,Desk Lamp,Accessories,1.0,6339.63,UPI,2026,10,October,Saturday,6339.63,Low
+OR000181,CU00004,2025-04-24,Keyboard,Office,2.0,13252.74,UPI,2025,4,April,Thursday,26505.48,Medium
+OR000182,CU00008,2025-04-08,Headphones,Accessories,2.0,20601.17,Cash,2025,4,April,Tuesday,41202.34,Medium
+OR000183,CU00350,2025-06-21,Desk Lamp,Electronics,4.0,27431.46,Debit Card,2025,6,June,Saturday,109725.84,Medium
+OR000184,CU00273,2025-08-15,Headphones,Accessories,6.0,5818.69,Credit Card,2025,8,August,Friday,34912.14,Medium
+OR000185,CU00184,2025-09-13,USB Hub,Accessories,6.0,20800.65,Debit Card,2025,9,September,Saturday,124803.90000000001,High
+OR000186,CU00265,2026-09-25,Desk Lamp,Electronics,2.0,298.27,Debit Card,2026,9,September,Friday,596.54,Low
+OR000187,CU00226,2026-09-15,Wireless Mouse,Electronics,8.0,24046.43,Credit Card,2026,9,September,Tuesday,192371.44,High
+OR000188,CU00158,2025-11-01,Laptop Stand,Accessories,8.0,8476.34,Debit Card,2025,11,November,Saturday,67810.72,Medium
+OR000189,CU00381,2026-08-17,Laptop Stand,Office,1.0,1272.72,UPI,2026,8,August,Monday,1272.72,Low
+OR000190,CU00230,2025-08-15,Headphones,Office,2.0,11887.78,Cash,2025,8,August,Friday,23775.56,Low
+OR000191,CU00273,2025-09-21,Keyboard,Office,8.0,26786.34,Net Banking,2025,9,September,Sunday,214290.72,High
+OR000192,CU00460,2026-04-24,Laptop Stand,Electronics,4.0,7061.65,Debit Card,2026,4,April,Friday,28246.6,Medium
+OR000193,CU00454,2026-08-04,Wireless Mouse,Electronics,4.0,8690.31,Cash,2026,8,August,Tuesday,34761.24,Medium
+OR000194,CU00338,2025-01-23,Laptop Stand,Electronics,5.0,5116.3,Cash,2025,1,January,Thursday,25581.5,Low
+OR000195,CU00452,2026-01-29,USB Hub,Office,9.0,16203.505000000001,Debit Card,2026,1,January,Thursday,145831.545,High
+OR000196,CU00171,2025-08-03,Headphones,Office,2.0,13037.7,Net Banking,2025,8,August,Sunday,26075.4,Medium
+OR000197,CU00185,2025-09-19,Keyboard,Office,9.0,28439.84,Credit Card,2025,9,September,Friday,255958.56,High
+OR000198,CU00467,2026-01-24,Keyboard,Office,3.0,2846.85,Cash,2026,1,January,Saturday,8540.55,Low
+OR000199,CU00444,2025-12-10,Webcam,Office,9.0,13513.75,Credit Card,2025,12,December,Wednesday,121623.75,High
+OR000200,CU00082,2026-10-25,Laptop Stand,Accessories,5.0,14281.61,Credit Card,2026,10,October,Sunday,71408.05,Medium
+OR000201,CU00004,2025-10-23,Desk Lamp,Office,7.0,7752.0,Debit Card,2025,10,October,Thursday,54264.0,Medium
+OR000202,CU00088,2026-10-10,Laptop Stand,Home,1.0,14970.17,Cash,2026,10,October,Saturday,14970.17,Low
+OR000203,CU00379,2026-03-31,Desk Lamp,Electronics,4.0,10581.51,Debit Card,2026,3,March,Tuesday,42326.04,Medium
+OR000204,CU00117,2026-02-23,Webcam,Accessories,2.0,7472.5,Net Banking,2026,2,February,Monday,14945.0,Low
+OR000205,CU00493,2025-12-24,Keyboard,Accessories,6.0,11022.94,Credit Card,2025,12,December,Wednesday,66137.64,Medium
+OR000206,CU00117,2025-08-16,Wireless Mouse,Accessories,1.0,19091.83,Debit Card,2025,8,August,Saturday,19091.83,Low
+OR000207,CU00085,2026-01-28,Wireless Mouse,Accessories,4.0,13566.24,Debit Card,2026,1,January,Wednesday,54264.96,Medium
+OR000208,CU00036,2026-01-03,USB Hub,Electronics,5.0,12337.21,Cash,2026,1,January,Saturday,61686.049999999996,Medium
+OR000209,CU00474,2025-03-13,Keyboard,Accessories,5.0,25621.58,Debit Card,2025,3,March,Thursday,128107.90000000001,High
+OR000210,CU00155,2026-09-17,Keyboard,Accessories,8.0,19383.2,Debit Card,2026,9,September,Thursday,155065.6,High
+OR000211,CU00411,2026-08-17,Wireless Mouse,Home,6.0,19145.32,UPI,2026,8,August,Monday,114871.92,Medium
+OR000212,CU00274,2026-03-23,Webcam,Accessories,8.0,6747.21,UPI,2026,3,March,Monday,53977.68,Medium
+OR000213,CU00080,2026-03-24,Keyboard,Electronics,5.0,22526.68,UPI,2026,3,March,Tuesday,112633.4,Medium
+OR000214,CU00112,2025-04-10,Laptop Stand,Home,4.0,15379.61,Cash,2025,4,April,Thursday,61518.44,Medium
+OR000215,CU00042,2026-02-04,Keyboard,Home,3.0,6486.66,Credit Card,2026,2,February,Wednesday,19459.98,Low
+OR000216,CU00054,2026-10-12,Monitor,Home,7.0,12442.86,Debit Card,2026,10,October,Monday,87100.02,Medium
+OR000217,CU00402,2025-03-24,Laptop Stand,Electronics,9.0,26686.14,Debit Card,2025,3,March,Monday,240175.26,High
+OR000218,CU00325,2026-08-27,USB Hub,Accessories,9.0,938.42,Credit Card,2026,8,August,Thursday,8445.779999999999,Low
+OR000219,CU00080,2025-08-24,Webcam,Accessories,3.0,13401.49,UPI,2025,8,August,Sunday,40204.47,Medium
+OR000220,CU00210,2025-05-26,Headphones,Accessories,4.0,3682.53,Debit Card,2025,5,May,Monday,14730.12,Low
+OR000221,CU00114,2026-08-27,Keyboard,Home,6.0,6978.43,Credit Card,2026,8,August,Thursday,41870.58,Medium
+OR000222,CU00327,2026-03-16,Webcam,Electronics,9.0,12220.24,Debit Card,2026,3,March,Monday,109982.16,Medium
+OR000223,CU00065,2026-06-21,Keyboard,Office,3.0,3044.49,Cash,2026,6,June,Sunday,9133.47,Low
+OR000224,CU00124,2026-08-11,Laptop Stand,Office,8.0,24901.71,Cash,2026,8,August,Tuesday,199213.68,High
+OR000225,CU00335,2025-01-08,Wireless Mouse,Electronics,8.0,2579.37,Debit Card,2025,1,January,Wednesday,20634.96,Low
+OR000226,CU00378,2025-05-28,Laptop Stand,Home,2.0,17601.69,Net Banking,2025,5,May,Wednesday,35203.38,Medium
+OR000227,CU00483,2025-06-08,USB Hub,Electronics,3.0,4981.76,Net Banking,2025,6,June,Sunday,14945.28,Low
+OR000228,CU00486,2026-09-10,USB Hub,Accessories,4.0,3285.0,Cash,2026,9,September,Thursday,13140.0,Low
+OR000229,CU00356,2025-12-18,Laptop Stand,Office,8.0,13935.45,Net Banking,2025,12,December,Thursday,111483.6,Medium
+OR000230,CU00131,2025-05-01,USB Hub,Home,9.0,16203.505000000001,Net Banking,2025,5,May,Thursday,145831.545,High
+OR000231,CU00413,2026-04-13,Wireless Mouse,Home,2.0,1451.87,Net Banking,2026,4,April,Monday,2903.74,Low
+OR000232,CU00320,2025-08-27,Webcam,Electronics,2.0,2040.71,UPI,2025,8,August,Wednesday,4081.42,Low
+OR000233,CU00481,2026-01-22,Monitor,Accessories,4.0,9045.55,Cash,2026,1,January,Thursday,36182.2,Medium
+OR000234,CU00382,2026-09-23,Keyboard,Office,1.0,23506.75,UPI,2026,9,September,Wednesday,23506.75,Low
+OR000235,CU00402,2025-06-30,Desk Lamp,Accessories,5.0,25556.66,Credit Card,2025,6,June,Monday,127783.3,High
+OR000236,CU00272,2026-09-26,Desk Lamp,Electronics,3.0,2084.08,Cash,2026,9,September,Saturday,6252.24,Low
+OR000237,CU00404,2026-05-12,Desk Lamp,Home,4.0,5234.69,Debit Card,2026,5,May,Tuesday,20938.76,Low
+OR000238,CU00146,2025-01-16,Laptop Stand,Office,1.0,10238.8,Cash,2025,1,January,Thursday,10238.8,Low
+OR000239,CU00043,2025-09-21,Monitor,Electronics,3.0,19537.41,Credit Card,2025,9,September,Sunday,58612.229999999996,Medium
+OR000240,CU00107,2026-08-03,Laptop Stand,Office,2.0,8626.41,Net Banking,2026,8,August,Monday,17252.82,Low
+OR000241,CU00284,2026-07-28,Headphones,Home,3.0,6733.64,Credit Card,2026,7,July,Tuesday,20200.920000000002,Low
+OR000242,CU00323,2026-04-10,Headphones,Office,4.0,17689.34,Cash,2026,4,April,Friday,70757.36,Medium
+OR000243,CU00248,2026-04-07,Laptop Stand,Accessories,3.0,20475.03,Cash,2026,4,April,Tuesday,61425.09,Medium
+OR000244,CU00240,2026-08-07,Desk Lamp,Home,7.0,14676.19,UPI,2026,8,August,Friday,102733.33,Medium
+OR000245,CU00100,2025-04-06,Wireless Mouse,Accessories,5.0,20087.22,Net Banking,2025,4,April,Sunday,100436.1,Medium
+OR000246,CU00418,2025-11-06,Laptop Stand,Electronics,2.0,222.63,Cash,2025,11,November,Thursday,445.26,Low
+OR000247,CU00116,2025-08-23,Keyboard,Accessories,6.0,9902.96,UPI,2025,8,August,Saturday,59417.759999999995,Medium
+OR000248,CU00045,2026-10-19,Webcam,Accessories,8.0,18323.71,Credit Card,2026,10,October,Monday,146589.68,High
+OR000249,CU00076,2026-05-28,Keyboard,Accessories,5.0,19563.26,UPI,2026,5,May,Thursday,97816.29999999999,Medium
+OR000250,CU00017,2026-05-16,Laptop Stand,Office,9.0,5914.01,Debit Card,2026,5,May,Saturday,53226.090000000004,Medium
+OR000251,CU00498,2025-03-05,Laptop Stand,Home,4.0,10028.5,UPI,2025,3,March,Wednesday,40114.0,Medium
+OR000252,CU00186,2026-05-24,Webcam,Office,5.0,6868.39,Cash,2026,5,May,Sunday,34341.950000000004,Medium
+OR000253,CU00397,2026-07-14,Headphones,Office,4.0,26965.74,UPI,2026,7,July,Tuesday,107862.96,Medium
+OR000254,CU00237,2025-10-13,Wireless Mouse,Home,9.0,8951.9,Cash,2025,10,October,Monday,80567.09999999999,Medium
+OR000255,CU00458,2026-08-01,Headphones,Home,7.0,26471.71,Cash,2026,8,August,Saturday,185301.97,High
+OR000256,CU00320,2025-09-20,Laptop Stand,Home,6.0,26520.72,Credit Card,2025,9,September,Saturday,159124.32,High
+OR000257,CU00122,2026-03-14,Headphones,Home,4.0,15818.57,Credit Card,2026,3,March,Saturday,63274.28,Medium
+OR000258,CU00057,2025-05-18,Desk Lamp,Accessories,1.0,26137.51,Cash,2025,5,May,Sunday,26137.51,Medium
+OR000259,CU00086,2025-12-08,Desk Lamp,Home,9.0,2392.4,Net Banking,2025,12,December,Monday,21531.600000000002,Low
+OR000260,CU00294,2025-02-08,Wireless Mouse,Office,1.0,3872.28,Net Banking,2025,2,February,Saturday,3872.28,Low
+OR000261,CU00015,2025-03-21,Keyboard,Office,7.0,12260.85,Cash,2025,3,March,Friday,85825.95,Medium
+OR000262,CU00406,2026-08-27,Monitor,Office,5.0,20784.5,Credit Card,2026,8,August,Thursday,103922.5,Medium
+OR000263,CU00143,2026-04-15,Laptop Stand,Electronics,7.0,29119.41,Credit Card,2026,4,April,Wednesday,203835.87,High
+OR000264,CU00454,2026-01-31,Desk Lamp,Electronics,9.0,14059.15,UPI,2026,1,January,Saturday,126532.34999999999,High
+OR000265,CU00060,2025-09-28,Monitor,Home,2.0,320.72,UPI,2025,9,September,Sunday,641.44,Low
+OR000266,CU00449,2026-01-09,Wireless Mouse,Accessories,1.0,5526.97,UPI,2026,1,January,Friday,5526.97,Low
+OR000267,CU00437,2026-04-18,Desk Lamp,Electronics,4.0,13196.36,Cash,2026,4,April,Saturday,52785.44,Medium
+OR000268,CU00259,2025-08-15,Headphones,Electronics,6.0,20730.5,Debit Card,2025,8,August,Friday,124383.0,High
+OR000269,CU00239,2025-08-05,Wireless Mouse,Electronics,1.0,17637.3,Debit Card,2025,8,August,Tuesday,17637.3,Low
+OR000270,CU00449,2026-05-10,Monitor,Electronics,8.0,26295.59,Credit Card,2026,5,May,Sunday,210364.72,High
+OR000271,CU00407,2025-12-28,Keyboard,Office,6.0,8040.91,UPI,2025,12,December,Sunday,48245.46,Medium
+OR000272,CU00269,2025-09-30,Keyboard,Home,9.0,16245.89,Debit Card,2025,9,September,Tuesday,146213.01,High
+OR000273,CU00166,2025-10-27,Desk Lamp,Electronics,3.0,4413.14,Debit Card,2025,10,October,Monday,13239.420000000002,Low
+OR000274,CU00037,2026-06-26,Laptop Stand,Office,9.0,19392.73,UPI,2026,6,June,Friday,174534.57,High
+OR000275,CU00464,2025-12-13,USB Hub,Office,4.0,22894.33,Cash,2025,12,December,Saturday,91577.32,Medium
+OR000276,CU00486,2025-02-23,Keyboard,Home,1.0,15451.15,Credit Card,2025,2,February,Sunday,15451.15,Low
+OR000277,CU00435,2026-07-09,Keyboard,Home,8.0,13498.7,Debit Card,2026,7,July,Thursday,107989.6,Medium
+OR000278,CU00002,2025-06-15,USB Hub,Home,1.0,5657.38,Credit Card,2025,6,June,Sunday,5657.38,Low
+OR000279,CU00215,2025-02-19,Monitor,Office,7.0,28028.7,UPI,2025,2,February,Wednesday,196200.9,High
+OR000280,CU00143,2025-07-09,Keyboard,Home,2.0,18224.47,Net Banking,2025,7,July,Wednesday,36448.94,Medium
+OR000281,CU00217,2025-03-21,Monitor,Office,7.0,24473.45,Cash,2025,3,March,Friday,171314.15,High
+OR000282,CU00024,2025-01-16,Headphones,Home,3.0,825.12,Credit Card,2025,1,January,Thursday,2475.36,Low
+OR000283,CU00270,2026-04-13,Wireless Mouse,Home,1.0,7614.14,Credit Card,2026,4,April,Monday,7614.14,Low
+OR000284,CU00272,2026-03-20,USB Hub,Electronics,8.0,14523.55,UPI,2026,3,March,Friday,116188.4,High
+OR000285,CU00124,2025-07-26,Monitor,Electronics,4.0,16133.23,Cash,2025,7,July,Saturday,64532.92,Medium
+OR000286,CU00284,2026-04-15,USB Hub,Accessories,6.0,12208.67,Credit Card,2026,4,April,Wednesday,73252.02,Medium
+OR000287,CU00272,2025-01-26,Monitor,Home,1.0,10184.86,Credit Card,2025,1,January,Sunday,10184.86,Low
+OR000288,CU00319,2025-10-04,Desk Lamp,Office,9.0,13566.09,Net Banking,2025,10,October,Saturday,122094.81,High
+OR000289,CU00117,2026-01-21,Monitor,Accessories,6.0,11042.6,Net Banking,2026,1,January,Wednesday,66255.6,Medium
+OR000290,CU00071,2026-06-17,USB Hub,Accessories,4.0,1297.46,Debit Card,2026,6,June,Wednesday,5189.84,Low
+OR000291,CU00162,2025-07-02,Headphones,Electronics,5.0,20813.12,Debit Card,2025,7,July,Wednesday,104065.59999999999,Medium
+OR000292,CU00009,2026-10-01,Webcam,Accessories,4.0,23161.81,Net Banking,2026,10,October,Thursday,92647.24,Medium
+OR000293,CU00348,2025-09-07,Laptop Stand,Home,3.0,9406.35,Cash,2025,9,September,Sunday,28219.050000000003,Medium
+OR000294,CU00133,2026-05-08,Monitor,Home,3.0,28981.14,Credit Card,2026,5,May,Friday,86943.42,Medium
+OR000295,CU00159,2025-05-01,Laptop Stand,Home,6.0,29608.89,Cash,2025,5,May,Thursday,177653.34,High
+OR000296,CU00026,2026-03-27,Webcam,Office,4.0,17100.18,UPI,2026,3,March,Friday,68400.72,Medium
+OR000297,CU00262,2026-01-11,Headphones,Office,6.0,23843.27,Debit Card,2026,1,January,Sunday,143059.62,High
+OR000298,CU00018,2025-10-28,Webcam,Electronics,8.0,16411.46,Debit Card,2025,10,October,Tuesday,131291.68,High
+OR000299,CU00237,2025-06-19,Monitor,Office,6.0,7906.89,Debit Card,2025,6,June,Thursday,47441.340000000004,Medium
+OR000300,CU00132,2026-01-06,USB Hub,Office,7.0,2193.72,Cash,2026,1,January,Tuesday,15356.039999999999,Low
+OR000301,CU00315,2025-10-02,Laptop Stand,Accessories,6.0,10398.56,UPI,2025,10,October,Thursday,62391.36,Medium
+OR000302,CU00499,2025-07-12,Monitor,Home,8.0,5642.63,Net Banking,2025,7,July,Saturday,45141.04,Medium
+OR000303,CU00282,2025-12-18,Webcam,Office,7.0,27676.39,Credit Card,2025,12,December,Thursday,193734.72999999998,High
+OR000304,CU00401,2025-06-13,Wireless Mouse,Home,8.0,29140.02,Credit Card,2025,6,June,Friday,233120.16,High
+OR000305,CU00099,2026-03-14,Wireless Mouse,Electronics,6.0,15998.57,Debit Card,2026,3,March,Saturday,95991.42,Medium
+OR000306,CU00181,2025-01-18,Monitor,Office,1.0,16939.67,Net Banking,2025,1,January,Saturday,16939.67,Low
+OR000307,CU00408,2025-06-13,Monitor,Accessories,9.0,27921.45,Net Banking,2025,6,June,Friday,251293.05000000002,High
+OR000308,CU00188,2025-11-18,USB Hub,Electronics,3.0,22448.86,Debit Card,2025,11,November,Tuesday,67346.58,Medium
+OR000309,CU00462,2025-03-27,Wireless Mouse,Accessories,7.0,4943.47,Debit Card,2025,3,March,Thursday,34604.29,Medium
+OR000310,CU00464,2025-05-31,USB Hub,Home,6.0,28563.54,Debit Card,2025,5,May,Saturday,171381.24,High
+OR000311,CU00373,2025-10-12,Monitor,Electronics,6.0,17183.4,Cash,2025,10,October,Sunday,103100.40000000001,Medium
+OR000312,CU00331,2025-11-09,Wireless Mouse,Office,5.0,717.79,Net Banking,2025,11,November,Sunday,3588.95,Low
+OR000313,CU00172,2025-08-17,Monitor,Electronics,5.0,5966.89,UPI,2025,8,August,Sunday,29834.45,Medium
+OR000314,CU00418,2026-06-28,Desk Lamp,Accessories,2.0,23925.24,Debit Card,2026,6,June,Sunday,47850.48,Medium
+OR000315,CU00494,2025-12-09,Laptop Stand,Electronics,3.0,3920.2,Debit Card,2025,12,December,Tuesday,11760.599999999999,Low
+OR000316,CU00432,2025-09-03,Laptop Stand,Home,1.0,25553.85,Cash,2025,9,September,Wednesday,25553.85,Low
+OR000317,CU00173,2025-12-10,Monitor,Home,9.0,23611.12,UPI,2025,12,December,Wednesday,212500.08,High
+OR000318,CU00085,2025-08-04,Desk Lamp,Office,9.0,1154.17,Debit Card,2025,8,August,Monday,10387.53,Low
+OR000319,CU00457,2025-02-04,Laptop Stand,Accessories,1.0,9998.27,Cash,2025,2,February,Tuesday,9998.27,Low
+OR000320,CU00009,2025-10-26,Webcam,Home,8.0,15255.64,UPI,2025,10,October,Sunday,122045.12,High
+OR000321,CU00398,2025-08-31,USB Hub,Home,7.0,2373.14,UPI,2025,8,August,Sunday,16611.98,Low
+OR000322,CU00134,2025-11-28,Laptop Stand,Home,3.0,17430.46,UPI,2025,11,November,Friday,52291.38,Medium
+OR000323,CU00384,2025-12-11,USB Hub,Home,2.0,29409.79,Net Banking,2025,12,December,Thursday,58819.58,Medium
+OR000324,CU00297,2025-07-02,USB Hub,Electronics,6.0,18044.2,Net Banking,2025,7,July,Wednesday,108265.20000000001,Medium
+OR000325,CU00058,2025-11-01,USB Hub,Electronics,1.0,14862.12,Debit Card,2025,11,November,Saturday,14862.12,Low
+OR000326,CU00454,2026-02-06,Monitor,Accessories,2.0,26018.78,Net Banking,2026,2,February,Friday,52037.56,Medium
+OR000327,CU00467,2025-06-11,Wireless Mouse,Office,1.0,28922.69,Debit Card,2025,6,June,Wednesday,28922.69,Medium
+OR000328,CU00154,2025-01-20,Webcam,Electronics,2.0,27045.57,Net Banking,2025,1,January,Monday,54091.14,Medium
+OR000329,CU00080,2025-05-04,Keyboard,Electronics,1.0,1204.97,UPI,2025,5,May,Sunday,1204.97,Low
+OR000330,CU00425,2025-11-22,Desk Lamp,Accessories,4.0,3078.87,Cash,2025,11,November,Saturday,12315.48,Low
+OR000331,CU00219,2026-04-08,Desk Lamp,Accessories,8.0,18502.22,Cash,2026,4,April,Wednesday,148017.76,High
+OR000332,CU00331,2026-03-11,USB Hub,Electronics,3.0,6878.31,Cash,2026,3,March,Wednesday,20634.93,Low
+OR000333,CU00412,2026-06-02,Wireless Mouse,Accessories,3.0,15679.41,Debit Card,2026,6,June,Tuesday,47038.229999999996,Medium
+OR000334,CU00327,2025-11-08,Webcam,Office,9.0,25171.41,Credit Card,2025,11,November,Saturday,226542.69,High
+OR000335,CU00237,2026-08-11,Monitor,Electronics,5.0,28159.82,UPI,2026,8,August,Tuesday,140799.1,High
+OR000336,CU00358,2026-10-17,Keyboard,Electronics,1.0,10074.76,Cash,2026,10,October,Saturday,10074.76,Low
+OR000337,CU00042,2025-01-12,Wireless Mouse,Electronics,6.0,25476.39,Debit Card,2025,1,January,Sunday,152858.34,High
+OR000338,CU00256,2025-04-14,Keyboard,Home,5.0,15169.66,Debit Card,2025,4,April,Monday,75848.3,Medium
+OR000339,CU00302,2025-09-25,Headphones,Home,4.0,19791.98,UPI,2025,9,September,Thursday,79167.92,Medium
+OR000340,CU00337,2025-10-31,Monitor,Electronics,8.0,3850.47,Credit Card,2025,10,October,Friday,30803.76,Medium
+OR000341,CU00111,2025-05-18,Laptop Stand,Home,7.0,1994.26,Net Banking,2025,5,May,Sunday,13959.82,Low
+OR000342,CU00396,2025-07-15,Desk Lamp,Accessories,1.0,23434.06,Cash,2025,7,July,Tuesday,23434.06,Low
+OR000343,CU00165,2025-01-31,Keyboard,Home,4.0,17993.64,Cash,2025,1,January,Friday,71974.56,Medium
+OR000344,CU00295,2026-08-28,Wireless Mouse,Electronics,5.0,24734.2,UPI,2026,8,August,Friday,123671.0,High
+OR000345,CU00353,2026-06-11,Headphones,Home,6.0,3561.92,Debit Card,2026,6,June,Thursday,21371.52,Low
+OR000346,CU00020,2025-05-01,Headphones,Accessories,4.0,5239.13,Debit Card,2025,5,May,Thursday,20956.52,Low
+OR000347,CU00477,2025-09-26,Desk Lamp,Home,5.0,1983.36,Cash,2025,9,September,Friday,9916.8,Low
+OR000348,CU00255,2025-12-15,Laptop Stand,Electronics,2.0,19538.8,Cash,2025,12,December,Monday,39077.6,Medium
+OR000349,CU00005,2025-10-26,USB Hub,Office,6.0,18505.89,UPI,2025,10,October,Sunday,111035.34,Medium
+OR000350,CU00298,2025-10-11,Keyboard,Home,3.0,12824.05,Net Banking,2025,10,October,Saturday,38472.149999999994,Medium
+OR000351,CU00130,2026-01-05,Monitor,Electronics,5.0,4145.05,UPI,2026,1,January,Monday,20725.25,Low
+OR000352,CU00437,2026-09-06,Webcam,Accessories,8.0,813.11,Debit Card,2026,9,September,Sunday,6504.88,Low
+OR000353,CU00083,2025-12-18,Laptop Stand,Home,9.0,7843.19,Credit Card,2025,12,December,Thursday,70588.70999999999,Medium
+OR000354,CU00003,2026-01-09,Headphones,Home,5.0,183.91,Credit Card,2026,1,January,Friday,919.55,Low
+OR000355,CU00363,2025-06-23,USB Hub,Office,2.0,28467.88,Debit Card,2025,6,June,Monday,56935.76,Medium
+OR000356,CU00025,2025-11-08,USB Hub,Electronics,1.0,5188.95,Debit Card,2025,11,November,Saturday,5188.95,Low
+OR000357,CU00100,2026-03-28,Webcam,Home,8.0,8038.17,UPI,2026,3,March,Saturday,64305.36,Medium
+OR000358,CU00184,2026-01-28,Headphones,Electronics,4.0,23977.35,UPI,2026,1,January,Wednesday,95909.4,Medium
+OR000359,CU00435,2025-11-22,Laptop Stand,Accessories,2.0,29849.11,Cash,2025,11,November,Saturday,59698.22,Medium
+OR000360,CU00401,2026-04-21,USB Hub,Home,8.0,18654.37,UPI,2026,4,April,Tuesday,149234.96,High
+OR000361,CU00301,2025-05-26,Headphones,Electronics,5.0,7674.29,Credit Card,2025,5,May,Monday,38371.45,Medium
+OR000362,CU00242,2025-01-22,Laptop Stand,Accessories,7.0,13642.15,Net Banking,2025,1,January,Wednesday,95495.05,Medium
+OR000363,CU00336,2025-07-28,Monitor,Office,1.0,1883.55,Credit Card,2025,7,July,Monday,1883.55,Low
+OR000364,CU00153,2025-06-15,USB Hub,Electronics,9.0,3359.5,UPI,2025,6,June,Sunday,30235.5,Medium
+OR000365,CU00442,2026-09-03,Laptop Stand,Accessories,3.0,21316.84,Debit Card,2026,9,September,Thursday,63950.520000000004,Medium
+OR000366,CU00346,2025-06-07,Webcam,Electronics,7.0,24901.66,Debit Card,2025,6,June,Saturday,174311.62,High
+OR000367,CU00292,2026-09-02,Keyboard,Office,3.0,8177.15,UPI,2026,9,September,Wednesday,24531.449999999997,Low
+OR000368,CU00252,2025-10-06,Keyboard,Home,2.0,22177.96,Debit Card,2025,10,October,Monday,44355.92,Medium
+OR000369,CU00315,2026-04-24,Laptop Stand,Electronics,4.0,19247.06,Net Banking,2026,4,April,Friday,76988.24,Medium
+OR000370,CU00287,2026-01-21,Laptop Stand,Accessories,1.0,15339.12,Net Banking,2026,1,January,Wednesday,15339.12,Low
+OR000371,CU00342,2025-01-04,Wireless Mouse,Electronics,5.0,8748.9,UPI,2025,1,January,Saturday,43744.5,Medium
+OR000372,CU00214,2026-09-05,Headphones,Accessories,5.0,29558.18,Cash,2026,9,September,Saturday,147790.9,High
+OR000373,CU00149,2025-11-15,Keyboard,Electronics,1.0,7514.15,Cash,2025,11,November,Saturday,7514.15,Low
+OR000374,CU00362,2026-01-14,USB Hub,Home,5.0,6339.39,Cash,2026,1,January,Wednesday,31696.95,Medium
+OR000375,CU00153,2025-06-26,Headphones,Electronics,6.0,3387.33,Cash,2025,6,June,Thursday,20323.98,Low
+OR000376,CU00008,2025-05-02,Keyboard,Office,5.0,19803.9,Cash,2025,5,May,Friday,99019.5,Medium
+OR000377,CU00037,2025-01-27,USB Hub,Accessories,1.0,27046.02,Net Banking,2025,1,January,Monday,27046.02,Medium
+OR000378,CU00001,2025-12-18,USB Hub,Home,7.0,4111.42,Credit Card,2025,12,December,Thursday,28779.940000000002,Medium
+OR000379,CU00261,2025-07-29,Webcam,Electronics,3.0,3222.12,UPI,2025,7,July,Tuesday,9666.36,Low
+OR000380,CU00341,2025-10-14,Webcam,Accessories,3.0,27142.28,Credit Card,2025,10,October,Tuesday,81426.84,Medium
+OR000381,CU00144,2026-10-19,Keyboard,Electronics,8.0,13875.91,UPI,2026,10,October,Monday,111007.28,Medium
+OR000382,CU00014,2026-03-08,Keyboard,Office,9.0,29073.76,UPI,2026,3,March,Sunday,261663.84,High
+OR000383,CU00321,2026-05-09,USB Hub,Electronics,5.0,21337.76,UPI,2026,5,May,Saturday,106688.79999999999,Medium
+OR000384,CU00169,2026-03-03,Wireless Mouse,Office,5.0,23173.99,Debit Card,2026,3,March,Tuesday,115869.95000000001,High
+OR000385,CU00398,2025-04-27,Monitor,Accessories,3.0,13905.43,Net Banking,2025,4,April,Sunday,41716.29,Medium
+OR000386,CU00183,2026-03-18,Monitor,Electronics,7.0,7225.53,UPI,2026,3,March,Wednesday,50578.71,Medium
+OR000387,CU00325,2026-08-17,USB Hub,Electronics,6.0,17117.3,Cash,2026,8,August,Monday,102703.79999999999,Medium
+OR000388,CU00307,2026-10-30,USB Hub,Office,4.0,10810.59,Net Banking,2026,10,October,Friday,43242.36,Medium
+OR000389,CU00142,2025-02-01,Desk Lamp,Electronics,7.0,14144.79,Debit Card,2025,2,February,Saturday,99013.53,Medium
+OR000390,CU00386,2025-01-19,Wireless Mouse,Home,7.0,15518.97,UPI,2025,1,January,Sunday,108632.79,Medium
+OR000391,CU00408,2026-10-17,Desk Lamp,Home,9.0,894.47,Cash,2026,10,October,Saturday,8050.2300000000005,Low
+OR000392,CU00411,2026-05-25,Monitor,Accessories,9.0,18295.37,Credit Card,2026,5,May,Monday,164658.33,High
+OR000393,CU00159,2025-01-11,Desk Lamp,Accessories,4.0,10820.19,UPI,2025,1,January,Saturday,43280.76,Medium
+OR000394,CU00140,2026-07-26,Monitor,Accessories,2.0,24381.93,Debit Card,2026,7,July,Sunday,48763.86,Medium
+OR000395,CU00145,2026-09-22,Desk Lamp,Home,9.0,1783.38,UPI,2026,9,September,Tuesday,16050.420000000002,Low
+OR000396,CU00081,2025-06-13,Monitor,Accessories,4.0,16730.09,Credit Card,2025,6,June,Friday,66920.36,Medium
+OR000397,CU00439,2025-05-23,Headphones,Accessories,8.0,10864.58,Cash,2025,5,May,Friday,86916.64,Medium
+OR000398,CU00490,2026-05-22,USB Hub,Office,7.0,2889.56,UPI,2026,5,May,Friday,20226.92,Low
+OR000399,CU00413,2025-07-22,Webcam,Accessories,5.0,12469.47,Debit Card,2025,7,July,Tuesday,62347.35,Medium
+OR000400,CU00022,2025-03-12,Keyboard,Office,8.0,12337.22,Net Banking,2025,3,March,Wednesday,98697.76,Medium
+OR000401,CU00472,2026-04-11,Headphones,Accessories,7.0,22623.91,Credit Card,2026,4,April,Saturday,158367.37,High
+OR000402,CU00407,2025-12-29,Keyboard,Accessories,6.0,4645.4,Credit Card,2025,12,December,Monday,27872.399999999998,Medium
+OR000403,CU00034,2025-07-05,Desk Lamp,Home,5.0,24928.42,Cash,2025,7,July,Saturday,124642.09999999999,High
+OR000404,CU00011,2025-08-04,Desk Lamp,Electronics,3.0,1532.4,Cash,2025,8,August,Monday,4597.200000000001,Low
+OR000405,CU00125,2025-11-11,Wireless Mouse,Office,2.0,15519.65,Debit Card,2025,11,November,Tuesday,31039.3,Medium
+OR000406,CU00243,2025-06-02,Headphones,Accessories,6.0,19505.21,Cash,2025,6,June,Monday,117031.26,High
+OR000407,CU00176,2025-02-04,Monitor,Electronics,4.0,528.86,Cash,2025,2,February,Tuesday,2115.44,Low
+OR000408,CU00321,2026-03-09,USB Hub,Accessories,6.0,2167.0,Credit Card,2026,3,March,Monday,13002.0,Low
+OR000409,CU00347,2025-07-15,Keyboard,Home,7.0,8277.75,Net Banking,2025,7,July,Tuesday,57944.25,Medium
+OR000410,CU00239,2025-09-27,Monitor,Office,1.0,11505.43,Credit Card,2025,9,September,Saturday,11505.43,Low
+OR000411,CU00190,2025-07-27,Desk Lamp,Accessories,1.0,10460.66,Cash,2025,7,July,Sunday,10460.66,Low
+OR000412,CU00282,2025-04-22,Keyboard,Accessories,6.0,29142.2,Debit Card,2025,4,April,Tuesday,174853.2,High
+OR000413,CU00052,2025-12-30,Keyboard,Home,5.0,5091.59,Debit Card,2025,12,December,Tuesday,25457.95,Low
+OR000414,CU00013,2026-02-10,Desk Lamp,Accessories,5.0,26732.99,Net Banking,2026,2,February,Tuesday,133664.95,High
+OR000415,CU00397,2025-12-02,Desk Lamp,Accessories,7.0,28342.84,Net Banking,2025,12,December,Tuesday,198399.88,High
+OR000416,CU00077,2025-12-06,Headphones,Accessories,3.0,5350.2,Cash,2025,12,December,Saturday,16050.599999999999,Low
+OR000417,CU00491,2026-04-24,Monitor,Home,2.0,22781.78,Debit Card,2026,4,April,Friday,45563.56,Medium
+OR000418,CU00277,2025-01-29,Laptop Stand,Accessories,3.0,29945.86,Credit Card,2025,1,January,Wednesday,89837.58,Medium
+OR000419,CU00264,2026-06-02,Wireless Mouse,Office,9.0,7510.81,Cash,2026,6,June,Tuesday,67597.29000000001,Medium
+OR000420,CU00414,2026-07-04,Laptop Stand,Office,7.0,15131.81,UPI,2026,7,July,Saturday,105922.67,Medium
+OR000421,CU00104,2025-04-12,Keyboard,Home,4.0,22789.18,UPI,2025,4,April,Saturday,91156.72,Medium
+OR000422,CU00274,2026-10-23,Laptop Stand,Office,1.0,22069.83,Cash,2026,10,October,Friday,22069.83,Low
+OR000423,CU00233,2025-11-02,USB Hub,Accessories,8.0,25011.64,Credit Card,2025,11,November,Sunday,200093.12,High
+OR000424,CU00250,2025-08-17,Laptop Stand,Home,3.0,10512.37,Debit Card,2025,8,August,Sunday,31537.11,Medium
+OR000425,CU00461,2025-07-18,Webcam,Home,3.0,3707.73,Net Banking,2025,7,July,Friday,11123.19,Low
+OR000426,CU00494,2026-10-23,USB Hub,Electronics,7.0,20325.01,Credit Card,2026,10,October,Friday,142275.06999999998,High
+OR000427,CU00203,2026-01-03,Laptop Stand,Office,2.0,10252.9,Debit Card,2026,1,January,Saturday,20505.8,Low
+OR000428,CU00195,2026-10-29,Wireless Mouse,Office,2.0,19417.33,Cash,2026,10,October,Thursday,38834.66,Medium
+OR000429,CU00134,2026-04-25,Wireless Mouse,Accessories,5.0,14255.23,Cash,2026,4,April,Saturday,71276.15,Medium
+OR000430,CU00193,2025-11-07,Headphones,Accessories,2.0,13812.36,Net Banking,2025,11,November,Friday,27624.72,Medium
+OR000431,CU00216,2025-01-20,Desk Lamp,Office,9.0,26457.19,Credit Card,2025,1,January,Monday,238114.71,High
+OR000432,CU00037,2026-09-08,USB Hub,Electronics,5.0,19249.73,Net Banking,2026,9,September,Tuesday,96248.65,Medium
+OR000433,CU00116,2025-06-02,Headphones,Accessories,8.0,18772.74,Credit Card,2025,6,June,Monday,150181.92,High
+OR000434,CU00391,2026-06-08,Laptop Stand,Office,6.0,29128.47,Cash,2026,6,June,Monday,174770.82,High
+OR000435,CU00358,2025-03-27,Keyboard,Accessories,5.0,8165.36,UPI,2025,3,March,Thursday,40826.799999999996,Medium
+OR000436,CU00034,2026-07-13,Laptop Stand,Electronics,3.0,20686.57,Net Banking,2026,7,July,Monday,62059.71,Medium
+OR000437,CU00446,2025-01-19,USB Hub,Electronics,2.0,10730.16,Cash,2025,1,January,Sunday,21460.32,Low
+OR000438,CU00068,2025-03-23,Laptop Stand,Electronics,2.0,18007.75,Credit Card,2025,3,March,Sunday,36015.5,Medium
+OR000439,CU00081,2025-07-18,Desk Lamp,Office,2.0,24531.59,Net Banking,2025,7,July,Friday,49063.18,Medium
+OR000440,CU00029,2026-06-07,Monitor,Electronics,1.0,27691.28,UPI,2026,6,June,Sunday,27691.28,Medium
+OR000441,CU00078,2026-10-30,Desk Lamp,Home,7.0,12870.34,Credit Card,2026,10,October,Friday,90092.38,Medium
+OR000442,CU00096,2025-06-08,Monitor,Office,7.0,24979.51,Debit Card,2025,6,June,Sunday,174856.56999999998,High
+OR000443,CU00446,2026-01-21,Laptop Stand,Office,7.0,10118.49,Cash,2026,1,January,Wednesday,70829.43,Medium
+OR000444,CU00220,2026-05-16,Keyboard,Electronics,4.0,19864.7,Cash,2026,5,May,Saturday,79458.8,Medium
+OR000445,CU00098,2026-08-19,Laptop Stand,Electronics,1.0,26341.26,UPI,2026,8,August,Wednesday,26341.26,Medium
+OR000446,CU00021,2025-06-07,Laptop Stand,Home,2.0,20594.12,Net Banking,2025,6,June,Saturday,41188.24,Medium
+OR000447,CU00124,2025-03-16,Webcam,Office,5.0,21201.44,UPI,2025,3,March,Sunday,106007.2,Medium
+OR000448,CU00206,2026-06-09,Webcam,Accessories,9.0,25145.04,Net Banking,2026,6,June,Tuesday,226305.36000000002,High
+OR000449,CU00220,2025-01-23,Laptop Stand,Electronics,1.0,7648.21,Debit Card,2025,1,January,Thursday,7648.21,Low
+OR000450,CU00241,2026-08-21,USB Hub,Accessories,7.0,22432.19,Debit Card,2026,8,August,Friday,157025.33,High
+OR000451,CU00100,2025-09-27,Keyboard,Accessories,9.0,13875.91,Credit Card,2025,9,September,Saturday,124883.19,High
+OR000452,CU00056,2025-12-02,USB Hub,Office,8.0,16422.04,Credit Card,2025,12,December,Tuesday,131376.32,High
+OR000453,CU00242,2025-11-28,Monitor,Accessories,3.0,29255.22,Debit Card,2025,11,November,Friday,87765.66,Medium
+OR000454,CU00028,2025-10-17,USB Hub,Home,6.0,12434.15,Credit Card,2025,10,October,Friday,74604.9,Medium
+OR000455,CU00445,2025-01-09,Desk Lamp,Electronics,8.0,7122.02,Net Banking,2025,1,January,Thursday,56976.16,Medium
+OR000456,CU00157,2025-04-08,Laptop Stand,Office,5.0,25194.05,Cash,2025,4,April,Tuesday,125970.25,High
+OR000457,CU00326,2025-08-25,Monitor,Electronics,7.0,5635.15,Debit Card,2025,8,August,Monday,39446.049999999996,Medium
+OR000458,CU00325,2025-06-07,Headphones,Electronics,4.0,22383.68,Cash,2025,6,June,Saturday,89534.72,Medium
+OR000459,CU00020,2026-07-01,Monitor,Home,7.0,27853.77,UPI,2026,7,July,Wednesday,194976.39,High
+OR000460,CU00303,2026-10-26,Headphones,Home,2.0,24665.29,Cash,2026,10,October,Monday,49330.58,Medium
+OR000461,CU00315,2025-05-18,Monitor,Home,1.0,19031.22,UPI,2025,5,May,Sunday,19031.22,Low
+OR000462,CU00064,2026-05-04,Wireless Mouse,Office,1.0,27702.28,UPI,2026,5,May,Monday,27702.28,Medium
+OR000463,CU00290,2025-12-05,Desk Lamp,Electronics,5.0,14718.37,Cash,2025,12,December,Friday,73591.85,Medium
+OR000464,CU00046,2026-05-30,Keyboard,Home,1.0,2362.62,Debit Card,2026,5,May,Saturday,2362.62,Low
+OR000465,CU00231,2026-05-26,Wireless Mouse,Home,2.0,22074.43,UPI,2026,5,May,Tuesday,44148.86,Medium
+OR000466,CU00094,2026-06-29,Monitor,Office,8.0,21533.65,UPI,2026,6,June,Monday,172269.2,High
+OR000467,CU00164,2026-10-06,Headphones,Home,4.0,25974.75,Cash,2026,10,October,Tuesday,103899.0,Medium
+OR000468,CU00437,2026-01-26,USB Hub,Accessories,6.0,12242.37,Debit Card,2026,1,January,Monday,73454.22,Medium
+OR000469,CU00449,2026-09-11,Laptop Stand,Home,4.0,4436.73,Credit Card,2026,9,September,Friday,17746.92,Low
+OR000470,CU00465,2025-10-23,Webcam,Home,1.0,3169.84,Credit Card,2025,10,October,Thursday,3169.84,Low
+OR000471,CU00479,2025-02-02,Desk Lamp,Electronics,6.0,10427.33,Cash,2025,2,February,Sunday,62563.979999999996,Medium
+OR000472,CU00261,2025-08-21,USB Hub,Electronics,1.0,23809.63,Net Banking,2025,8,August,Thursday,23809.63,Low
+OR000473,CU00431,2026-04-09,Keyboard,Home,7.0,15688.93,Net Banking,2026,4,April,Thursday,109822.51000000001,Medium
+OR000474,CU00451,2025-01-19,Webcam,Office,7.0,5196.02,Net Banking,2025,1,January,Sunday,36372.14,Medium
+OR000475,CU00138,2026-07-08,Keyboard,Accessories,7.0,7330.38,Credit Card,2026,7,July,Wednesday,51312.66,Medium
+OR000476,CU00066,2026-06-26,Wireless Mouse,Office,4.0,10517.49,Cash,2026,6,June,Friday,42069.96,Medium
+OR000477,CU00198,2025-06-05,Keyboard,Electronics,5.0,14460.56,Credit Card,2025,6,June,Thursday,72302.8,Medium
+OR000478,CU00328,2026-08-02,Monitor,Electronics,7.0,25199.38,UPI,2026,8,August,Sunday,176395.66,High
+OR000479,CU00060,2026-06-03,Headphones,Electronics,4.0,29770.69,UPI,2026,6,June,Wednesday,119082.76,High
+OR000480,CU00324,2025-08-18,Keyboard,Electronics,9.0,18017.81,Debit Card,2025,8,August,Monday,162160.29,High
+OR000481,CU00163,2026-09-11,Wireless Mouse,Electronics,6.0,11736.56,Credit Card,2026,9,September,Friday,70419.36,Medium
+OR000482,CU00225,2025-12-11,Webcam,Electronics,7.0,5583.03,UPI,2025,12,December,Thursday,39081.21,Medium
+OR000483,CU00191,2025-10-26,Laptop Stand,Home,6.0,15379.61,Cash,2025,10,October,Sunday,92277.66,Medium
+OR000484,CU00369,2026-01-22,Monitor,Electronics,2.0,18432.32,UPI,2026,1,January,Thursday,36864.64,Medium
+OR000485,CU00165,2026-10-22,Wireless Mouse,Electronics,5.0,9875.53,Net Banking,2026,10,October,Thursday,49377.65,Medium
+OR000486,CU00238,2026-03-16,Headphones,Accessories,6.0,9785.31,Debit Card,2026,3,March,Monday,58711.86,Medium
+OR000487,CU00316,2025-12-10,USB Hub,Office,5.0,24872.18,Credit Card,2025,12,December,Wednesday,124360.9,High
+OR000488,CU00428,2026-03-11,Laptop Stand,Office,6.0,19832.93,Credit Card,2026,3,March,Wednesday,118997.58,High
+OR000489,CU00229,2026-05-08,Wireless Mouse,Electronics,9.0,13562.98,Cash,2026,5,May,Friday,122066.81999999999,High
+OR000490,CU00068,2025-05-12,USB Hub,Electronics,8.0,16775.7,Net Banking,2025,5,May,Monday,134205.6,High
+OR000491,CU00280,2025-12-22,Wireless Mouse,Electronics,2.0,15192.02,Credit Card,2025,12,December,Monday,30384.04,Medium
+OR000492,CU00009,2026-04-05,Monitor,Electronics,2.0,5313.81,Net Banking,2026,4,April,Sunday,10627.62,Low
+OR000493,CU00332,2025-05-09,Desk Lamp,Electronics,2.0,26123.11,Net Banking,2025,5,May,Friday,52246.22,Medium
+OR000494,CU00189,2026-05-19,Keyboard,Home,7.0,2820.89,Net Banking,2026,5,May,Tuesday,19746.23,Low
+OR000495,CU00323,2025-01-08,Webcam,Office,5.0,6469.48,Cash,2025,1,January,Wednesday,32347.399999999998,Medium
+OR000496,CU00065,2025-01-12,Headphones,Electronics,6.0,16895.39,UPI,2025,1,January,Sunday,101372.34,Medium
+OR000497,CU00249,2025-09-19,Laptop Stand,Electronics,8.0,13887.9,Credit Card,2025,9,September,Friday,111103.2,Medium
+OR000498,CU00090,2026-02-18,USB Hub,Home,5.0,17900.94,Debit Card,2026,2,February,Wednesday,89504.7,Medium
+OR000499,CU00277,2025-03-21,Monitor,Office,6.0,27598.98,Cash,2025,3,March,Friday,165593.88,High
+OR000500,CU00024,2025-10-06,Monitor,Electronics,3.0,8651.33,UPI,2025,10,October,Monday,25953.989999999998,Low
+OR000501,CU00261,2025-05-05,USB Hub,Office,8.0,4606.34,Debit Card,2025,5,May,Monday,36850.72,Medium
+OR000502,CU00215,2026-08-16,Keyboard,Home,1.0,3726.51,Cash,2026,8,August,Sunday,3726.51,Low
+OR000503,CU00064,2026-05-06,Monitor,Accessories,6.0,1865.92,UPI,2026,5,May,Wednesday,11195.52,Low
+OR000504,CU00368,2026-09-24,Headphones,Office,8.0,23743.56,Debit Card,2026,9,September,Thursday,189948.48,High
+OR000505,CU00418,2025-09-06,Desk Lamp,Accessories,7.0,13778.35,Debit Card,2025,9,September,Saturday,96448.45,Medium
+OR000506,CU00278,2026-01-26,Laptop Stand,Electronics,1.0,7748.46,Debit Card,2026,1,January,Monday,7748.46,Low
+OR000507,CU00260,2025-08-28,Wireless Mouse,Accessories,8.0,20254.76,Cash,2025,8,August,Thursday,162038.08,High
+OR000508,CU00178,2025-09-25,Monitor,Accessories,4.0,23343.12,UPI,2025,9,September,Thursday,93372.48,Medium
+OR000509,CU00138,2026-01-02,USB Hub,Electronics,5.0,28120.14,Cash,2026,1,January,Friday,140600.7,High
+OR000510,CU00006,2026-09-20,Webcam,Accessories,5.0,12043.18,UPI,2026,9,September,Sunday,60215.9,Medium
+OR000511,CU00240,2026-08-06,Monitor,Home,4.0,20713.67,Cash,2026,8,August,Thursday,82854.68,Medium
+OR000512,CU00255,2025-06-30,Wireless Mouse,Electronics,3.0,8191.8,Credit Card,2025,6,June,Monday,24575.4,Low
+OR000513,CU00016,2025-07-26,Desk Lamp,Electronics,9.0,25977.87,Debit Card,2025,7,July,Saturday,233800.83,High
+OR000514,CU00164,2025-11-26,Desk Lamp,Accessories,6.0,27269.97,Credit Card,2025,11,November,Wednesday,163619.82,High
+OR000515,CU00281,2026-05-24,Laptop Stand,Home,9.0,18944.49,Net Banking,2026,5,May,Sunday,170500.41,High
+OR000516,CU00120,2025-08-25,Webcam,Office,3.0,19802.59,UPI,2025,8,August,Monday,59407.770000000004,Medium
+OR000517,CU00296,2025-02-14,Keyboard,Office,3.0,13875.91,Debit Card,2025,2,February,Friday,41627.729999999996,Medium
+OR000518,CU00226,2025-04-13,Wireless Mouse,Office,5.0,17787.74,Net Banking,2025,4,April,Sunday,88938.70000000001,Medium
+OR000519,CU00465,2025-09-25,Laptop Stand,Electronics,6.0,13219.61,Credit Card,2025,9,September,Thursday,79317.66,Medium
+OR000520,CU00085,2026-08-22,Laptop Stand,Electronics,1.0,22235.66,UPI,2026,8,August,Saturday,22235.66,Low
+OR000521,CU00019,2026-04-10,Laptop Stand,Home,4.0,29301.02,Credit Card,2026,4,April,Friday,117204.08,High
+OR000522,CU00161,2025-06-17,Desk Lamp,Office,4.0,22399.55,Credit Card,2025,6,June,Tuesday,89598.2,Medium
+OR000523,CU00400,2026-02-01,Webcam,Accessories,1.0,9356.05,UPI,2026,2,February,Sunday,9356.05,Low
+OR000524,CU00463,2026-06-17,Webcam,Accessories,6.0,15063.05,Net Banking,2026,6,June,Wednesday,90378.29999999999,Medium
+OR000525,CU00315,2025-07-07,Monitor,Electronics,2.0,17952.15,Net Banking,2025,7,July,Monday,35904.3,Medium
+OR000526,CU00305,2026-05-19,Keyboard,Electronics,8.0,2558.17,Net Banking,2026,5,May,Tuesday,20465.36,Low
+OR000527,CU00362,2026-03-07,Webcam,Home,5.0,14810.56,Debit Card,2026,3,March,Saturday,74052.8,Medium
+OR000528,CU00494,2026-03-23,Webcam,Electronics,2.0,3163.47,Credit Card,2026,3,March,Monday,6326.94,Low
+OR000529,CU00471,2025-03-31,USB Hub,Home,5.0,16203.505000000001,Net Banking,2025,3,March,Monday,81017.52500000001,Medium
+OR000530,CU00314,2025-03-14,Wireless Mouse,Accessories,4.0,2700.78,Net Banking,2025,3,March,Friday,10803.12,Low
+OR000531,CU00176,2025-11-01,Desk Lamp,Home,4.0,10904.89,Cash,2025,11,November,Saturday,43619.56,Medium
+OR000532,CU00049,2025-09-26,Keyboard,Electronics,3.0,28639.11,UPI,2025,9,September,Friday,85917.33,Medium
+OR000533,CU00084,2025-07-25,Monitor,Office,4.0,323.16,Net Banking,2025,7,July,Friday,1292.64,Low
+OR000534,CU00333,2026-09-13,Webcam,Electronics,2.0,8300.68,Cash,2026,9,September,Sunday,16601.36,Low
+OR000535,CU00036,2025-06-14,Wireless Mouse,Electronics,3.0,11214.96,Cash,2025,6,June,Saturday,33644.88,Medium
+OR000536,CU00433,2025-09-02,Keyboard,Accessories,4.0,17741.69,Net Banking,2025,9,September,Tuesday,70966.76,Medium
+OR000537,CU00239,2025-02-02,Wireless Mouse,Office,8.0,28966.73,Credit Card,2025,2,February,Sunday,231733.84,High
+OR000538,CU00456,2025-01-14,Desk Lamp,Home,9.0,19228.5,Debit Card,2025,1,January,Tuesday,173056.5,High
+OR000539,CU00430,2025-08-07,Laptop Stand,Electronics,8.0,26824.05,Credit Card,2025,8,August,Thursday,214592.4,High
+OR000540,CU00277,2026-05-01,Wireless Mouse,Office,4.0,4961.79,UPI,2026,5,May,Friday,19847.16,Low
+OR000541,CU00214,2026-02-03,Keyboard,Home,4.0,8729.1,Debit Card,2026,2,February,Tuesday,34916.4,Medium
+OR000542,CU00060,2026-04-06,USB Hub,Home,3.0,26623.1,Debit Card,2026,4,April,Monday,79869.29999999999,Medium
+OR000543,CU00481,2026-05-18,Headphones,Accessories,5.0,254.8,Credit Card,2026,5,May,Monday,1274.0,Low
+OR000544,CU00321,2026-01-24,Webcam,Electronics,9.0,13667.95,Cash,2026,1,January,Saturday,123011.55,High
+OR000545,CU00208,2025-10-27,Monitor,Home,3.0,13641.32,Credit Card,2025,10,October,Monday,40923.96,Medium
+OR000546,CU00072,2025-08-31,Wireless Mouse,Home,7.0,28393.02,Net Banking,2025,8,August,Sunday,198751.14,High
+OR000547,CU00427,2025-01-27,Headphones,Accessories,3.0,13531.68,Cash,2025,1,January,Monday,40595.04,Medium
+OR000548,CU00028,2025-08-04,Headphones,Electronics,4.0,27199.29,Credit Card,2025,8,August,Monday,108797.16,Medium
+OR000549,CU00334,2025-11-30,Laptop Stand,Office,5.0,17601.1,Cash,2025,11,November,Sunday,88005.5,Medium
+OR000550,CU00106,2025-06-03,Webcam,Electronics,7.0,9069.2,Credit Card,2025,6,June,Tuesday,63484.40000000001,Medium
+OR000551,CU00316,2025-04-06,Monitor,Office,8.0,4533.16,Debit Card,2025,4,April,Sunday,36265.28,Medium
+OR000552,CU00049,2026-01-31,Desk Lamp,Electronics,6.0,14757.02,Cash,2026,1,January,Saturday,88542.12,Medium
+OR000553,CU00402,2025-11-19,Laptop Stand,Home,6.0,627.53,Credit Card,2025,11,November,Wednesday,3765.18,Low
+OR000554,CU00223,2026-10-29,Webcam,Accessories,8.0,10122.76,Credit Card,2026,10,October,Thursday,80982.08,Medium
+OR000555,CU00217,2026-07-03,Webcam,Electronics,6.0,15739.71,UPI,2026,7,July,Friday,94438.26,Medium
+OR000556,CU00472,2026-06-09,Webcam,Electronics,1.0,16792.81,Credit Card,2026,6,June,Tuesday,16792.81,Low
+OR000557,CU00093,2025-11-30,Monitor,Office,1.0,13373.59,Cash,2025,11,November,Sunday,13373.59,Low
+OR000558,CU00330,2026-03-15,Laptop Stand,Office,5.0,28922.7,UPI,2026,3,March,Sunday,144613.5,High
+OR000559,CU00285,2026-08-15,USB Hub,Electronics,1.0,4532.43,Net Banking,2026,8,August,Saturday,4532.43,Low
+OR000560,CU00347,2026-01-16,Monitor,Home,7.0,29925.05,Credit Card,2026,1,January,Friday,209475.35,High
+OR000561,CU00327,2025-06-19,USB Hub,Home,8.0,20772.27,Credit Card,2025,6,June,Thursday,166178.16,High
+OR000562,CU00401,2026-04-17,USB Hub,Accessories,9.0,24767.29,Debit Card,2026,4,April,Friday,222905.61000000002,High
+OR000563,CU00177,2025-03-22,Keyboard,Office,1.0,19066.33,Cash,2025,3,March,Saturday,19066.33,Low
+OR000564,CU00120,2025-12-02,Headphones,Home,6.0,6526.48,Cash,2025,12,December,Tuesday,39158.88,Medium
+OR000565,CU00339,2026-07-26,Monitor,Home,9.0,22544.5,Cash,2026,7,July,Sunday,202900.5,High
+OR000566,CU00286,2026-07-21,Headphones,Electronics,2.0,25460.88,UPI,2026,7,July,Tuesday,50921.76,Medium
+OR000567,CU00456,2026-06-02,Laptop Stand,Home,7.0,22582.81,Net Banking,2026,6,June,Tuesday,158079.67,High
+OR000568,CU00356,2026-01-25,Wireless Mouse,Electronics,9.0,26230.94,Debit Card,2026,1,January,Sunday,236078.46,High
+OR000569,CU00119,2025-08-21,Webcam,Office,1.0,1999.48,Net Banking,2025,8,August,Thursday,1999.48,Low
+OR000570,CU00152,2025-06-15,Desk Lamp,Electronics,5.0,28862.35,Cash,2025,6,June,Sunday,144311.75,High
+OR000571,CU00346,2025-12-01,Headphones,Electronics,1.0,28181.8,UPI,2025,12,December,Monday,28181.8,Medium
+OR000572,CU00194,2026-01-12,USB Hub,Electronics,5.0,26920.09,Debit Card,2026,1,January,Monday,134600.45,High
+OR000573,CU00462,2025-08-02,USB Hub,Electronics,8.0,19158.5,Net Banking,2025,8,August,Saturday,153268.0,High
+OR000574,CU00350,2025-06-14,Headphones,Electronics,3.0,25415.87,Cash,2025,6,June,Saturday,76247.61,Medium
+OR000575,CU00186,2026-05-30,Desk Lamp,Accessories,8.0,18186.6,Cash,2026,5,May,Saturday,145492.8,High
+OR000576,CU00404,2025-12-25,USB Hub,Electronics,8.0,14817.04,Net Banking,2025,12,December,Thursday,118536.32,High
+OR000577,CU00347,2025-11-20,Webcam,Accessories,1.0,27937.2,Debit Card,2025,11,November,Thursday,27937.2,Medium
+OR000578,CU00181,2026-06-23,Keyboard,Accessories,5.0,6305.53,Credit Card,2026,6,June,Tuesday,31527.649999999998,Medium
+OR000579,CU00212,2026-10-11,Keyboard,Office,3.0,25562.13,UPI,2026,10,October,Sunday,76686.39,Medium
+OR000580,CU00313,2026-05-02,Headphones,Home,9.0,13272.32,Net Banking,2026,5,May,Saturday,119450.88,High
+OR000581,CU00124,2026-06-07,Desk Lamp,Electronics,7.0,8828.99,Cash,2026,6,June,Sunday,61802.93,Medium
+OR000582,CU00332,2025-06-30,Monitor,Home,5.0,15235.23,Net Banking,2025,6,June,Monday,76176.15,Medium
+OR000583,CU00166,2026-07-30,Webcam,Office,6.0,19155.26,Cash,2026,7,July,Thursday,114931.56,High
+OR000584,CU00464,2026-05-03,Desk Lamp,Home,2.0,5563.76,Credit Card,2026,5,May,Sunday,11127.52,Low
+OR000585,CU00287,2026-01-11,Wireless Mouse,Accessories,5.0,13566.24,UPI,2026,1,January,Sunday,67831.2,Medium
+OR000586,CU00393,2025-03-24,Desk Lamp,Electronics,7.0,11899.44,Net Banking,2025,3,March,Monday,83296.08,Medium
+OR000587,CU00275,2025-12-15,Desk Lamp,Electronics,9.0,21140.94,Net Banking,2025,12,December,Monday,190268.46,High
+OR000588,CU00098,2026-03-08,Desk Lamp,Electronics,2.0,4798.67,Debit Card,2026,3,March,Sunday,9597.34,Low
+OR000589,CU00336,2025-05-14,Monitor,Home,9.0,1773.71,Credit Card,2025,5,May,Wednesday,15963.39,Low
+OR000590,CU00313,2025-07-30,Desk Lamp,Office,3.0,4930.59,Net Banking,2025,7,July,Wednesday,14791.77,Low
+OR000591,CU00075,2026-06-08,Headphones,Home,8.0,5498.1,Net Banking,2026,6,June,Monday,43984.8,Medium
+OR000592,CU00478,2026-02-17,Webcam,Office,9.0,22869.87,Cash,2026,2,February,Tuesday,205828.83,High
+OR000593,CU00044,2025-06-09,Keyboard,Home,8.0,14827.72,Debit Card,2025,6,June,Monday,118621.76,High
+OR000594,CU00189,2026-07-31,Wireless Mouse,Electronics,9.0,22944.32,Net Banking,2026,7,July,Friday,206498.88,High
+OR000595,CU00062,2026-07-19,Desk Lamp,Accessories,5.0,22434.4,Net Banking,2026,7,July,Sunday,112172.0,Medium
+OR000596,CU00382,2025-03-31,Headphones,Home,7.0,7433.27,Credit Card,2025,3,March,Monday,52032.89,Medium
+OR000597,CU00215,2025-02-14,Webcam,Home,9.0,27336.12,Credit Card,2025,2,February,Friday,246025.08,High
+OR000598,CU00270,2026-04-11,Laptop Stand,Home,2.0,23095.01,Cash,2026,4,April,Saturday,46190.02,Medium
+OR000599,CU00450,2025-02-19,Laptop Stand,Home,7.0,2652.62,UPI,2025,2,February,Wednesday,18568.34,Low
+OR000600,CU00219,2026-04-03,USB Hub,Accessories,7.0,17213.14,UPI,2026,4,April,Friday,120491.98,High
+OR000601,CU00247,2025-12-27,Monitor,Office,5.0,12440.2,Debit Card,2025,12,December,Saturday,62201.0,Medium
+OR000602,CU00285,2026-05-22,Desk Lamp,Home,6.0,13838.36,Net Banking,2026,5,May,Friday,83030.16,Medium
+OR000603,CU00463,2025-01-22,Headphones,Accessories,6.0,11076.87,Net Banking,2025,1,January,Wednesday,66461.22,Medium
+OR000604,CU00213,2026-10-11,Headphones,Electronics,5.0,14939.03,UPI,2026,10,October,Sunday,74695.15000000001,Medium
+OR000605,CU00125,2025-03-03,USB Hub,Office,6.0,10732.5,Credit Card,2025,3,March,Monday,64395.0,Medium
+OR000606,CU00159,2025-11-20,Monitor,Accessories,5.0,17567.775,Credit Card,2025,11,November,Thursday,87838.875,Medium
+OR000607,CU00274,2026-06-28,Wireless Mouse,Office,5.0,16387.17,Net Banking,2026,6,June,Sunday,81935.84999999999,Medium
+OR000608,CU00380,2025-04-02,Headphones,Electronics,5.0,21944.95,Net Banking,2025,4,April,Wednesday,109724.75,Medium
+OR000609,CU00429,2026-05-17,Wireless Mouse,Accessories,5.0,4629.5,Net Banking,2026,5,May,Sunday,23147.5,Low
+OR000610,CU00266,2026-04-11,Wireless Mouse,Office,3.0,4092.12,Debit Card,2026,4,April,Saturday,12276.36,Low
+OR000611,CU00239,2026-08-10,Wireless Mouse,Office,1.0,14986.27,UPI,2026,8,August,Monday,14986.27,Low
+OR000612,CU00467,2025-12-31,Webcam,Electronics,5.0,14302.06,Cash,2025,12,December,Wednesday,71510.3,Medium
+OR000613,CU00336,2025-07-26,Wireless Mouse,Electronics,4.0,16959.45,Net Banking,2025,7,July,Saturday,67837.8,Medium
+OR000614,CU00005,2026-06-28,Wireless Mouse,Office,1.0,18440.13,Credit Card,2026,6,June,Sunday,18440.13,Low
+OR000615,CU00327,2025-04-13,Webcam,Accessories,5.0,8296.18,Credit Card,2025,4,April,Sunday,41480.9,Medium
+OR000616,CU00384,2026-06-15,Wireless Mouse,Electronics,8.0,19467.22,Debit Card,2026,6,June,Monday,155737.76,High
+OR000617,CU00386,2025-04-22,Monitor,Home,3.0,14920.5,Credit Card,2025,4,April,Tuesday,44761.5,Medium
+OR000618,CU00079,2026-05-06,Wireless Mouse,Accessories,5.0,14927.11,Net Banking,2026,5,May,Wednesday,74635.55,Medium
+OR000619,CU00255,2025-01-28,USB Hub,Office,5.0,17857.83,Debit Card,2025,1,January,Tuesday,89289.15000000001,Medium
+OR000620,CU00380,2025-09-23,Webcam,Office,4.0,18402.43,Net Banking,2025,9,September,Tuesday,73609.72,Medium
+OR000621,CU00467,2026-08-14,Keyboard,Office,8.0,18545.23,Cash,2026,8,August,Friday,148361.84,High
+OR000622,CU00435,2025-11-15,USB Hub,Accessories,9.0,24935.21,Debit Card,2025,11,November,Saturday,224416.88999999998,High
+OR000623,CU00394,2025-01-19,Webcam,Electronics,9.0,15035.06,Debit Card,2025,1,January,Sunday,135315.54,High
+OR000624,CU00392,2026-09-05,Monitor,Office,7.0,28237.02,Cash,2026,9,September,Saturday,197659.14,High
+OR000625,CU00176,2026-02-05,Webcam,Electronics,6.0,28397.81,Credit Card,2026,2,February,Thursday,170386.86000000002,High
+OR000626,CU00297,2025-10-19,USB Hub,Home,8.0,10127.37,Debit Card,2025,10,October,Sunday,81018.96,Medium
+OR000627,CU00018,2026-08-17,Wireless Mouse,Home,8.0,26449.45,Net Banking,2026,8,August,Monday,211595.6,High
+OR000628,CU00062,2026-01-28,Laptop Stand,Home,9.0,12686.19,Net Banking,2026,1,January,Wednesday,114175.71,Medium
+OR000629,CU00127,2026-02-05,USB Hub,Home,8.0,29231.57,UPI,2026,2,February,Thursday,233852.56,High
+OR000630,CU00480,2026-04-03,Laptop Stand,Home,4.0,27829.34,Cash,2026,4,April,Friday,111317.36,Medium
+OR000631,CU00124,2025-04-27,Monitor,Home,9.0,13241.14,Net Banking,2025,4,April,Sunday,119170.26,High
+OR000632,CU00163,2025-03-19,Laptop Stand,Electronics,8.0,15379.61,Debit Card,2025,3,March,Wednesday,123036.88,High
+OR000633,CU00403,2026-02-11,Laptop Stand,Office,8.0,20612.13,Credit Card,2026,2,February,Wednesday,164897.04,High
+OR000634,CU00015,2026-05-30,Monitor,Accessories,2.0,11089.98,Debit Card,2026,5,May,Saturday,22179.96,Low
+OR000635,CU00087,2026-10-05,Monitor,Electronics,1.0,19845.02,Net Banking,2026,10,October,Monday,19845.02,Low
+OR000636,CU00001,2025-01-11,Wireless Mouse,Home,9.0,12698.0,UPI,2025,1,January,Saturday,114282.0,Medium
+OR000637,CU00299,2025-02-21,Headphones,Electronics,6.0,15106.15,Credit Card,2025,2,February,Friday,90636.9,Medium
+OR000638,CU00369,2026-10-20,USB Hub,Home,6.0,11423.68,Net Banking,2026,10,October,Tuesday,68542.08,Medium
+OR000639,CU00465,2025-04-27,Wireless Mouse,Office,7.0,23921.28,Cash,2025,4,April,Sunday,167448.96,High
+OR000640,CU00416,2026-01-16,USB Hub,Electronics,7.0,18081.09,Credit Card,2026,1,January,Friday,126567.63,High
+OR000641,CU00363,2025-11-12,Webcam,Electronics,1.0,20529.14,Cash,2025,11,November,Wednesday,20529.14,Low
+OR000642,CU00401,2025-04-23,Monitor,Home,3.0,24645.71,UPI,2025,4,April,Wednesday,73937.13,Medium
+OR000643,CU00459,2026-05-30,Desk Lamp,Home,5.0,23907.41,Cash,2026,5,May,Saturday,119537.05,High
+OR000644,CU00279,2026-06-09,Webcam,Accessories,1.0,15334.84,Debit Card,2026,6,June,Tuesday,15334.84,Low
+OR000645,CU00064,2025-07-08,Wireless Mouse,Home,8.0,7700.85,Net Banking,2025,7,July,Tuesday,61606.8,Medium
+OR000646,CU00316,2026-07-19,Laptop Stand,Home,2.0,10965.67,Cash,2026,7,July,Sunday,21931.34,Low
+OR000647,CU00156,2026-02-09,Headphones,Office,4.0,16605.83,UPI,2026,2,February,Monday,66423.32,Medium
+OR000648,CU00453,2025-05-17,USB Hub,Office,2.0,16203.505000000001,Cash,2025,5,May,Saturday,32407.010000000002,Medium
+OR000649,CU00265,2025-06-28,Keyboard,Electronics,1.0,23446.62,Cash,2025,6,June,Saturday,23446.62,Low
+OR000650,CU00332,2025-01-28,Wireless Mouse,Accessories,4.0,6957.89,Credit Card,2025,1,January,Tuesday,27831.56,Medium
+OR000651,CU00258,2026-01-13,Wireless Mouse,Accessories,7.0,10122.54,Debit Card,2026,1,January,Tuesday,70857.78,Medium
+OR000652,CU00176,2025-12-17,Webcam,Electronics,3.0,19018.92,Credit Card,2025,12,December,Wednesday,57056.759999999995,Medium
+OR000653,CU00456,2025-05-01,Wireless Mouse,Office,5.0,20961.1,Cash,2025,5,May,Thursday,104805.5,Medium
+OR000654,CU00475,2026-03-05,Webcam,Electronics,9.0,11899.81,Credit Card,2026,3,March,Thursday,107098.29,Medium
+OR000655,CU00448,2025-07-23,Keyboard,Accessories,4.0,22695.35,Debit Card,2025,7,July,Wednesday,90781.4,Medium
+OR000656,CU00482,2025-04-23,Wireless Mouse,Office,8.0,27069.1,Cash,2025,4,April,Wednesday,216552.8,High
+OR000657,CU00009,2025-05-04,Monitor,Office,9.0,5015.47,UPI,2025,5,May,Sunday,45139.23,Medium
+OR000658,CU00314,2026-01-11,Laptop Stand,Office,5.0,27485.37,Net Banking,2026,1,January,Sunday,137426.85,High
+OR000659,CU00210,2026-09-12,Keyboard,Home,6.0,16188.47,UPI,2026,9,September,Saturday,97130.81999999999,Medium
+OR000660,CU00283,2025-12-19,Laptop Stand,Accessories,8.0,13520.1,Net Banking,2025,12,December,Friday,108160.8,Medium
+OR000661,CU00227,2026-02-20,Laptop Stand,Office,7.0,23895.47,Cash,2026,2,February,Friday,167268.29,High
+OR000662,CU00468,2026-08-01,Laptop Stand,Office,6.0,23543.86,Debit Card,2026,8,August,Saturday,141263.16,High
+OR000663,CU00409,2026-03-12,Webcam,Electronics,8.0,20507.71,Debit Card,2026,3,March,Thursday,164061.68,High
+OR000664,CU00389,2026-06-30,Wireless Mouse,Office,9.0,12314.31,Credit Card,2026,6,June,Tuesday,110828.79,Medium
+OR000665,CU00329,2025-12-26,Wireless Mouse,Office,3.0,8091.31,Cash,2025,12,December,Friday,24273.93,Low
+OR000666,CU00060,2025-03-30,Wireless Mouse,Electronics,7.0,10874.76,Credit Card,2025,3,March,Sunday,76123.32,Medium
+OR000667,CU00090,2026-03-18,Laptop Stand,Electronics,3.0,17241.23,Debit Card,2026,3,March,Wednesday,51723.69,Medium
+OR000668,CU00479,2026-04-18,Wireless Mouse,Accessories,7.0,16962.85,Net Banking,2026,4,April,Saturday,118739.94999999998,High
+OR000669,CU00023,2025-10-27,Laptop Stand,Accessories,1.0,27726.02,Cash,2025,10,October,Monday,27726.02,Medium
+OR000670,CU00362,2025-12-03,Wireless Mouse,Accessories,3.0,13754.39,Cash,2025,12,December,Wednesday,41263.17,Medium
+OR000671,CU00292,2025-03-04,USB Hub,Electronics,8.0,20032.39,Debit Card,2025,3,March,Tuesday,160259.12,High
+OR000672,CU00369,2025-11-08,USB Hub,Accessories,8.0,19835.36,UPI,2025,11,November,Saturday,158682.88,High
+OR000673,CU00494,2026-09-10,Wireless Mouse,Accessories,5.0,21977.4,UPI,2026,9,September,Thursday,109887.0,Medium
+OR000674,CU00201,2025-04-19,Keyboard,Home,7.0,29744.62,UPI,2025,4,April,Saturday,208212.34,High
+OR000675,CU00296,2026-03-05,USB Hub,Office,5.0,24080.65,Credit Card,2026,3,March,Thursday,120403.25,High
+OR000676,CU00005,2026-05-16,USB Hub,Home,1.0,1285.57,Debit Card,2026,5,May,Saturday,1285.57,Low
+OR000677,CU00175,2026-04-24,Laptop Stand,Office,8.0,24367.08,Credit Card,2026,4,April,Friday,194936.64,High
+OR000678,CU00136,2026-08-04,Webcam,Office,1.0,29996.76,Debit Card,2026,8,August,Tuesday,29996.76,Medium
+OR000679,CU00411,2025-05-14,USB Hub,Accessories,8.0,1233.76,Net Banking,2025,5,May,Wednesday,9870.08,Low
+OR000680,CU00166,2025-05-18,Keyboard,Accessories,8.0,17955.86,Net Banking,2025,5,May,Sunday,143646.88,High
+OR000681,CU00153,2025-08-13,Monitor,Electronics,1.0,18022.28,Cash,2025,8,August,Wednesday,18022.28,Low
+OR000682,CU00228,2025-01-20,Keyboard,Home,9.0,15794.9,UPI,2025,1,January,Monday,142154.1,High
+OR000683,CU00290,2025-01-04,Monitor,Accessories,6.0,26271.69,Cash,2025,1,January,Saturday,157630.13999999998,High
+OR000684,CU00350,2026-02-12,Webcam,Electronics,6.0,24448.22,Net Banking,2026,2,February,Thursday,146689.32,High
+OR000685,CU00486,2025-07-19,Desk Lamp,Accessories,3.0,5244.14,Cash,2025,7,July,Saturday,15732.420000000002,Low
+OR000686,CU00225,2026-10-19,Keyboard,Accessories,2.0,3179.68,Net Banking,2026,10,October,Monday,6359.36,Low
+OR000687,CU00305,2026-07-27,Laptop Stand,Office,1.0,5080.92,UPI,2026,7,July,Monday,5080.92,Low
+OR000688,CU00186,2026-03-31,Laptop Stand,Home,4.0,26612.99,Credit Card,2026,3,March,Tuesday,106451.96,Medium
+OR000689,CU00294,2026-07-03,Wireless Mouse,Home,8.0,3042.44,Debit Card,2026,7,July,Friday,24339.52,Low
+OR000690,CU00124,2025-06-19,Monitor,Home,1.0,19420.57,UPI,2025,6,June,Thursday,19420.57,Low
+OR000691,CU00120,2026-04-14,USB Hub,Home,3.0,20530.0,Credit Card,2026,4,April,Tuesday,61590.0,Medium
+OR000692,CU00384,2026-08-07,Keyboard,Home,8.0,6621.8,Credit Card,2026,8,August,Friday,52974.4,Medium
+OR000693,CU00334,2025-04-16,Wireless Mouse,Office,4.0,6970.4,Credit Card,2025,4,April,Wednesday,27881.6,Medium
+OR000694,CU00393,2025-12-26,Monitor,Electronics,1.0,25087.89,Cash,2025,12,December,Friday,25087.89,Low
+OR000695,CU00362,2026-10-25,Webcam,Electronics,9.0,12660.42,Cash,2026,10,October,Sunday,113943.78,Medium
+OR000696,CU00182,2025-12-08,Desk Lamp,Accessories,4.0,15034.25,UPI,2025,12,December,Monday,60137.0,Medium
+OR000697,CU00391,2026-07-01,Keyboard,Home,2.0,11974.91,Cash,2026,7,July,Wednesday,23949.82,Low
+OR000698,CU00109,2025-02-08,Monitor,Home,6.0,5577.47,Net Banking,2025,2,February,Saturday,33464.82,Medium
+OR000699,CU00003,2025-08-20,Monitor,Home,1.0,13234.66,UPI,2025,8,August,Wednesday,13234.66,Low
+OR000700,CU00110,2025-02-10,Desk Lamp,Electronics,7.0,8152.65,Cash,2025,2,February,Monday,57068.549999999996,Medium
+OR000701,CU00343,2026-04-25,Keyboard,Office,6.0,9074.87,Cash,2026,4,April,Saturday,54449.22,Medium
+OR000702,CU00331,2026-01-23,Keyboard,Home,9.0,6131.34,Cash,2026,1,January,Friday,55182.06,Medium
+OR000703,CU00368,2025-05-12,USB Hub,Accessories,3.0,18833.52,Net Banking,2025,5,May,Monday,56500.56,Medium
+OR000704,CU00386,2026-06-24,Wireless Mouse,Accessories,4.0,8677.01,Cash,2026,6,June,Wednesday,34708.04,Medium
+OR000705,CU00110,2025-12-29,Desk Lamp,Office,7.0,5053.23,Credit Card,2025,12,December,Monday,35372.61,Medium
+OR000706,CU00392,2026-05-19,USB Hub,Home,2.0,24271.89,UPI,2026,5,May,Tuesday,48543.78,Medium
+OR000707,CU00236,2026-04-23,Desk Lamp,Accessories,4.0,17318.15,Net Banking,2026,4,April,Thursday,69272.6,Medium
+OR000708,CU00435,2026-09-22,USB Hub,Accessories,1.0,25780.69,Cash,2026,9,September,Tuesday,25780.69,Low
+OR000709,CU00011,2025-06-03,Headphones,Electronics,7.0,23464.87,Debit Card,2025,6,June,Tuesday,164254.09,High
+OR000710,CU00377,2025-12-03,Headphones,Accessories,6.0,11217.39,Debit Card,2025,12,December,Wednesday,67304.34,Medium
+OR000711,CU00344,2025-04-19,Desk Lamp,Electronics,5.0,16893.96,Debit Card,2025,4,April,Saturday,84469.79999999999,Medium
+OR000712,CU00243,2026-02-20,Headphones,Home,2.0,29611.16,UPI,2026,2,February,Friday,59222.32,Medium
+OR000713,CU00435,2025-09-01,Headphones,Home,4.0,10804.93,Credit Card,2025,9,September,Monday,43219.72,Medium
+OR000714,CU00134,2026-02-24,Keyboard,Office,6.0,7261.17,Credit Card,2026,2,February,Tuesday,43567.020000000004,Medium
+OR000715,CU00185,2025-02-19,Laptop Stand,Electronics,8.0,4978.79,Cash,2025,2,February,Wednesday,39830.32,Medium
+OR000716,CU00187,2025-09-12,Webcam,Accessories,5.0,28203.78,Debit Card,2025,9,September,Friday,141018.9,High
+OR000717,CU00240,2025-11-06,Desk Lamp,Electronics,8.0,13775.08,Debit Card,2025,11,November,Thursday,110200.64,Medium
+OR000718,CU00142,2025-01-02,Keyboard,Home,4.0,27835.89,Debit Card,2025,1,January,Thursday,111343.56,Medium
+OR000719,CU00340,2025-03-31,Laptop Stand,Electronics,6.0,17795.72,Net Banking,2025,3,March,Monday,106774.32,Medium
+OR000720,CU00050,2026-07-16,Webcam,Office,3.0,17743.3,UPI,2026,7,July,Thursday,53229.899999999994,Medium
+OR000721,CU00017,2025-11-23,Laptop Stand,Accessories,6.0,12066.67,UPI,2025,11,November,Sunday,72400.02,Medium
+OR000722,CU00072,2025-02-14,Laptop Stand,Office,9.0,11938.87,Debit Card,2025,2,February,Friday,107449.83,Medium
+OR000723,CU00223,2025-04-04,Webcam,Electronics,3.0,9690.86,Net Banking,2025,4,April,Friday,29072.58,Medium
+OR000724,CU00007,2026-10-04,Headphones,Accessories,7.0,21909.74,Net Banking,2026,10,October,Sunday,153368.18000000002,High
+OR000725,CU00317,2025-04-25,Monitor,Home,5.0,22188.81,Credit Card,2025,4,April,Friday,110944.05,Medium
+OR000726,CU00099,2026-07-19,Monitor,Home,5.0,15983.6,Credit Card,2026,7,July,Sunday,79918.0,Medium
+OR000727,CU00377,2025-06-14,Headphones,Accessories,6.0,13523.2,Net Banking,2025,6,June,Saturday,81139.20000000001,Medium
+OR000728,CU00417,2025-03-11,Monitor,Office,4.0,19105.25,UPI,2025,3,March,Tuesday,76421.0,Medium
+OR000729,CU00425,2026-07-15,Headphones,Home,6.0,14793.1,Credit Card,2026,7,July,Wednesday,88758.6,Medium
+OR000730,CU00269,2025-03-23,Desk Lamp,Office,5.0,24742.61,Debit Card,2025,3,March,Sunday,123713.05,High
+OR000731,CU00266,2026-06-30,Wireless Mouse,Accessories,2.0,2047.98,Credit Card,2026,6,June,Tuesday,4095.96,Low
+OR000732,CU00195,2026-05-09,Monitor,Home,4.0,27088.0,Debit Card,2026,5,May,Saturday,108352.0,Medium
+OR000733,CU00067,2026-10-25,Keyboard,Home,4.0,15782.46,Net Banking,2026,10,October,Sunday,63129.84,Medium
+OR000734,CU00119,2025-12-30,Monitor,Accessories,5.0,15325.53,Net Banking,2025,12,December,Tuesday,76627.65000000001,Medium
+OR000735,CU00125,2026-09-14,Wireless Mouse,Electronics,6.0,11790.2,Credit Card,2026,9,September,Monday,70741.20000000001,Medium
+OR000736,CU00295,2026-03-11,Webcam,Home,4.0,15462.925,Debit Card,2026,3,March,Wednesday,61851.7,Medium
+OR000737,CU00010,2025-01-13,Keyboard,Electronics,8.0,6687.79,Net Banking,2025,1,January,Monday,53502.32,Medium
+OR000738,CU00486,2025-07-13,Wireless Mouse,Home,1.0,14969.84,Credit Card,2025,7,July,Sunday,14969.84,Low
+OR000739,CU00059,2025-01-10,Laptop Stand,Home,7.0,12006.94,Debit Card,2025,1,January,Friday,84048.58,Medium
+OR000740,CU00174,2026-08-15,Monitor,Electronics,9.0,8890.29,Credit Card,2026,8,August,Saturday,80012.61000000002,Medium
+OR000741,CU00167,2025-09-30,Keyboard,Office,7.0,6444.59,Cash,2025,9,September,Tuesday,45112.130000000005,Medium
+OR000742,CU00423,2025-12-30,Headphones,Office,6.0,25820.35,UPI,2025,12,December,Tuesday,154922.09999999998,High
+OR000743,CU00313,2026-06-22,USB Hub,Electronics,5.0,25520.23,Credit Card,2026,6,June,Monday,127601.15,High
+OR000744,CU00469,2026-01-14,Keyboard,Home,2.0,14605.03,Cash,2026,1,January,Wednesday,29210.06,Medium
+OR000745,CU00455,2026-09-10,Keyboard,Electronics,2.0,7020.7,Cash,2026,9,September,Thursday,14041.4,Low
+OR000746,CU00393,2026-10-25,Wireless Mouse,Office,2.0,13566.24,Credit Card,2026,10,October,Sunday,27132.48,Medium
+OR000747,CU00074,2025-05-15,Headphones,Electronics,9.0,27776.65,Credit Card,2025,5,May,Thursday,249989.85,High
+OR000748,CU00296,2026-06-01,Wireless Mouse,Electronics,4.0,23404.0,Cash,2026,6,June,Monday,93616.0,Medium
+OR000749,CU00299,2025-05-07,Webcam,Office,9.0,24246.06,Net Banking,2025,5,May,Wednesday,218214.54,High
+OR000750,CU00151,2026-04-06,Keyboard,Electronics,6.0,21112.01,Debit Card,2026,4,April,Monday,126672.06,High
+OR000751,CU00019,2025-12-26,Laptop Stand,Home,7.0,15379.61,Cash,2025,12,December,Friday,107657.27,Medium
+OR000752,CU00017,2026-08-03,Headphones,Electronics,9.0,4573.87,Cash,2026,8,August,Monday,41164.83,Medium
+OR000753,CU00192,2025-04-30,Headphones,Office,5.0,10470.71,Net Banking,2025,4,April,Wednesday,52353.549999999996,Medium
+OR000754,CU00368,2026-10-25,Monitor,Accessories,1.0,24975.65,Credit Card,2026,10,October,Sunday,24975.65,Low
+OR000755,CU00084,2025-12-06,Keyboard,Office,8.0,5400.48,Debit Card,2025,12,December,Saturday,43203.84,Medium
+OR000756,CU00478,2026-06-28,Wireless Mouse,Office,4.0,2347.29,UPI,2026,6,June,Sunday,9389.16,Low
+OR000757,CU00143,2026-06-28,Desk Lamp,Office,2.0,25407.65,Credit Card,2026,6,June,Sunday,50815.3,Medium
+OR000758,CU00344,2026-06-24,USB Hub,Office,3.0,23444.54,Debit Card,2026,6,June,Wednesday,70333.62,Medium
+OR000759,CU00025,2025-06-12,USB Hub,Home,9.0,4828.11,Net Banking,2025,6,June,Thursday,43452.99,Medium
+OR000760,CU00019,2025-05-09,Wireless Mouse,Office,4.0,15890.79,Credit Card,2025,5,May,Friday,63563.16,Medium
+OR000761,CU00253,2025-03-03,Desk Lamp,Home,5.0,1346.83,UPI,2025,3,March,Monday,6734.15,Low
+OR000762,CU00070,2026-08-08,Webcam,Accessories,8.0,4540.75,Debit Card,2026,8,August,Saturday,36326.0,Medium
+OR000763,CU00318,2026-02-10,Headphones,Office,6.0,7792.2,Debit Card,2026,2,February,Tuesday,46753.2,Medium
+OR000764,CU00197,2026-08-13,Headphones,Office,2.0,21149.8,Cash,2026,8,August,Thursday,42299.6,Medium
+OR000765,CU00116,2025-08-13,Headphones,Accessories,1.0,9217.7,UPI,2025,8,August,Wednesday,9217.7,Low
+OR000766,CU00494,2026-02-04,Wireless Mouse,Home,9.0,24333.33,Net Banking,2026,2,February,Wednesday,218999.97000000003,High
+OR000767,CU00198,2025-02-08,USB Hub,Accessories,2.0,803.97,Cash,2025,2,February,Saturday,1607.94,Low
+OR000768,CU00043,2026-03-12,Keyboard,Home,5.0,229.31,Debit Card,2026,3,March,Thursday,1146.55,Low
+OR000769,CU00071,2026-08-27,USB Hub,Electronics,1.0,9063.9,Net Banking,2026,8,August,Thursday,9063.9,Low
+OR000770,CU00159,2026-02-22,Desk Lamp,Office,7.0,21955.37,Credit Card,2026,2,February,Sunday,153687.59,High
+OR000771,CU00249,2026-07-24,Desk Lamp,Home,5.0,28551.05,Debit Card,2026,7,July,Friday,142755.25,High
+OR000772,CU00276,2025-12-31,Monitor,Accessories,6.0,9531.71,Credit Card,2025,12,December,Wednesday,57190.259999999995,Medium
+OR000773,CU00223,2025-10-20,Laptop Stand,Accessories,2.0,16751.69,Credit Card,2025,10,October,Monday,33503.38,Medium
+OR000774,CU00056,2025-05-03,Keyboard,Home,5.0,1336.34,Net Banking,2025,5,May,Saturday,6681.7,Low
+OR000775,CU00130,2025-06-12,Headphones,Office,5.0,137.73,Net Banking,2025,6,June,Thursday,688.65,Low
+OR000776,CU00059,2026-03-17,Monitor,Home,8.0,571.18,Credit Card,2026,3,March,Tuesday,4569.44,Low
+OR000777,CU00258,2025-09-24,Monitor,Home,7.0,3010.08,Credit Card,2025,9,September,Wednesday,21070.559999999998,Low
+OR000778,CU00035,2025-09-11,USB Hub,Home,6.0,26243.01,UPI,2025,9,September,Thursday,157458.06,High
+OR000779,CU00387,2026-01-09,Webcam,Home,7.0,19277.65,UPI,2026,1,January,Friday,134943.55000000002,High
+OR000780,CU00251,2025-12-25,Webcam,Office,8.0,26959.53,Net Banking,2025,12,December,Thursday,215676.24,High
+OR000781,CU00143,2026-06-22,Headphones,Home,3.0,25063.44,UPI,2026,6,June,Monday,75190.31999999999,Medium
+OR000782,CU00143,2026-08-26,Desk Lamp,Accessories,6.0,22976.26,UPI,2026,8,August,Wednesday,137857.56,High
+OR000783,CU00020,2025-03-26,Wireless Mouse,Office,9.0,10675.76,Net Banking,2025,3,March,Wednesday,96081.84,Medium
+OR000784,CU00020,2025-03-15,Wireless Mouse,Accessories,7.0,4107.06,Cash,2025,3,March,Saturday,28749.420000000002,Medium
+OR000785,CU00329,2026-07-06,Headphones,Accessories,8.0,3190.58,Cash,2026,7,July,Monday,25524.64,Low
+OR000786,CU00251,2026-10-02,Headphones,Accessories,1.0,847.87,UPI,2026,10,October,Friday,847.87,Low
+OR000787,CU00064,2025-12-27,Wireless Mouse,Home,8.0,5415.47,UPI,2025,12,December,Saturday,43323.76,Medium
+OR000788,CU00365,2026-01-16,Desk Lamp,Accessories,6.0,672.25,Cash,2026,1,January,Friday,4033.5,Low
+OR000789,CU00484,2026-04-30,Headphones,Electronics,2.0,20665.34,Debit Card,2026,4,April,Thursday,41330.68,Medium
+OR000790,CU00334,2026-09-28,Wireless Mouse,Accessories,9.0,11726.49,UPI,2026,9,September,Monday,105538.41,Medium
+OR000791,CU00442,2025-08-28,Monitor,Accessories,8.0,15891.86,Debit Card,2025,8,August,Thursday,127134.88,High
+OR000792,CU00342,2025-05-15,Desk Lamp,Home,6.0,14417.52,Net Banking,2025,5,May,Thursday,86505.12,Medium
+OR000793,CU00462,2026-07-01,Desk Lamp,Home,9.0,8574.61,Net Banking,2026,7,July,Wednesday,77171.49,Medium
+OR000794,CU00275,2025-02-06,USB Hub,Accessories,8.0,3524.47,UPI,2025,2,February,Thursday,28195.76,Medium
+OR000795,CU00407,2025-03-11,Desk Lamp,Home,4.0,16314.61,UPI,2025,3,March,Tuesday,65258.44,Medium
+OR000796,CU00390,2026-02-20,Keyboard,Accessories,9.0,25925.97,Credit Card,2026,2,February,Friday,233333.73,High
+OR000797,CU00167,2025-07-31,Webcam,Electronics,5.0,22516.12,Cash,2025,7,July,Thursday,112580.59999999999,Medium
+OR000798,CU00032,2025-12-19,Webcam,Office,2.0,27951.0,Cash,2025,12,December,Friday,55902.0,Medium
+OR000799,CU00211,2025-11-30,Keyboard,Office,2.0,10743.73,Debit Card,2025,11,November,Sunday,21487.46,Low
+OR000800,CU00096,2026-05-07,Headphones,Accessories,7.0,25386.58,Debit Card,2026,5,May,Thursday,177706.06,High
+OR000801,CU00435,2025-04-25,Webcam,Electronics,5.0,21704.72,Debit Card,2025,4,April,Friday,108523.6,Medium
+OR000802,CU00351,2026-02-07,Keyboard,Electronics,9.0,28295.83,Debit Card,2026,2,February,Saturday,254662.47000000003,High
+OR000803,CU00446,2026-05-17,Headphones,Accessories,9.0,8704.14,UPI,2026,5,May,Sunday,78337.26,Medium
+OR000804,CU00168,2025-12-11,Monitor,Office,1.0,24128.55,Debit Card,2025,12,December,Thursday,24128.55,Low
+OR000805,CU00272,2025-07-26,USB Hub,Home,2.0,15293.93,Net Banking,2025,7,July,Saturday,30587.86,Medium
+OR000806,CU00120,2026-08-27,Headphones,Accessories,2.0,13158.54,Debit Card,2026,8,August,Thursday,26317.08,Medium
+OR000807,CU00239,2025-03-29,USB Hub,Office,7.0,14026.07,Debit Card,2025,3,March,Saturday,98182.48999999999,Medium
+OR000808,CU00014,2025-08-05,Headphones,Electronics,3.0,13034.26,Net Banking,2025,8,August,Tuesday,39102.78,Medium
+OR000809,CU00176,2026-01-03,Webcam,Electronics,7.0,26324.28,UPI,2026,1,January,Saturday,184269.96,High
+OR000810,CU00434,2025-07-01,Wireless Mouse,Office,8.0,28337.95,Cash,2025,7,July,Tuesday,226703.6,High
+OR000811,CU00308,2026-03-13,Wireless Mouse,Accessories,6.0,19923.45,Credit Card,2026,3,March,Friday,119540.70000000001,High
+OR000812,CU00419,2026-06-22,Monitor,Electronics,9.0,5864.07,Debit Card,2026,6,June,Monday,52776.63,Medium
+OR000813,CU00383,2025-12-21,Webcam,Electronics,5.0,12673.29,UPI,2025,12,December,Sunday,63366.450000000004,Medium
+OR000814,CU00031,2025-08-24,Desk Lamp,Accessories,9.0,10732.22,Credit Card,2025,8,August,Sunday,96589.98,Medium
+OR000815,CU00240,2026-02-08,USB Hub,Accessories,7.0,20162.47,Debit Card,2026,2,February,Sunday,141137.29,High
+OR000816,CU00152,2026-01-12,Desk Lamp,Office,5.0,2203.31,Debit Card,2026,1,January,Monday,11016.55,Low
+OR000817,CU00060,2026-06-28,Webcam,Home,3.0,19658.44,Credit Card,2026,6,June,Sunday,58975.31999999999,Medium
+OR000818,CU00108,2026-02-15,Keyboard,Home,7.0,14057.51,Net Banking,2026,2,February,Sunday,98402.57,Medium
+OR000819,CU00005,2025-01-05,Laptop Stand,Office,7.0,7905.23,Credit Card,2025,1,January,Sunday,55336.61,Medium
+OR000820,CU00104,2025-07-16,Webcam,Electronics,1.0,1999.37,Credit Card,2025,7,July,Wednesday,1999.37,Low
+OR000821,CU00337,2025-09-01,Wireless Mouse,Electronics,3.0,1684.03,Debit Card,2025,9,September,Monday,5052.09,Low
+OR000822,CU00129,2025-08-26,Laptop Stand,Accessories,9.0,26776.15,Credit Card,2025,8,August,Tuesday,240985.35,High
+OR000823,CU00363,2026-07-30,Keyboard,Office,5.0,17344.14,Credit Card,2026,7,July,Thursday,86720.7,Medium
+OR000824,CU00149,2025-01-28,Desk Lamp,Office,9.0,13775.08,UPI,2025,1,January,Tuesday,123975.72,High
+OR000825,CU00028,2026-05-13,Headphones,Electronics,2.0,623.3,Debit Card,2026,5,May,Wednesday,1246.6,Low
+OR000826,CU00353,2025-07-07,Keyboard,Office,6.0,23152.72,Cash,2025,7,July,Monday,138916.32,High
+OR000827,CU00083,2026-01-04,Headphones,Accessories,3.0,6397.74,Debit Card,2026,1,January,Sunday,19193.22,Low
+OR000828,CU00484,2025-08-07,Webcam,Office,2.0,11563.77,Cash,2025,8,August,Thursday,23127.54,Low
+OR000829,CU00215,2025-02-16,Laptop Stand,Home,3.0,19433.45,Cash,2025,2,February,Sunday,58300.350000000006,Medium
+OR000830,CU00023,2025-01-12,Desk Lamp,Office,9.0,4122.41,Cash,2025,1,January,Sunday,37101.69,Medium
+OR000831,CU00119,2025-09-19,Monitor,Office,3.0,23921.16,Credit Card,2025,9,September,Friday,71763.48,Medium
+OR000832,CU00162,2026-07-05,Webcam,Home,9.0,25075.09,Net Banking,2026,7,July,Sunday,225675.81,High
+OR000833,CU00249,2025-08-21,Laptop Stand,Electronics,6.0,15632.86,Net Banking,2025,8,August,Thursday,93797.16,Medium
+OR000834,CU00334,2026-08-16,Keyboard,Accessories,9.0,11025.96,Cash,2026,8,August,Sunday,99233.63999999998,Medium
+OR000835,CU00159,2026-09-06,USB Hub,Accessories,5.0,7631.66,UPI,2026,9,September,Sunday,38158.3,Medium
+OR000836,CU00153,2025-04-29,Desk Lamp,Home,5.0,21746.46,Net Banking,2025,4,April,Tuesday,108732.29999999999,Medium
+OR000837,CU00463,2026-07-13,Headphones,Home,1.0,10282.84,Debit Card,2026,7,July,Monday,10282.84,Low
+OR000838,CU00096,2026-02-10,Keyboard,Accessories,5.0,24304.77,Debit Card,2026,2,February,Tuesday,121523.85,High
+OR000839,CU00366,2026-01-09,Wireless Mouse,Electronics,6.0,22000.07,Credit Card,2026,1,January,Friday,132000.41999999998,High
+OR000840,CU00084,2025-10-23,USB Hub,Home,4.0,16203.505000000001,UPI,2025,10,October,Thursday,64814.020000000004,Medium
+OR000841,CU00131,2026-09-30,Wireless Mouse,Accessories,2.0,6943.64,Net Banking,2026,9,September,Wednesday,13887.28,Low
+OR000842,CU00299,2025-03-27,Webcam,Office,5.0,10796.45,Debit Card,2025,3,March,Thursday,53982.25,Medium
+OR000843,CU00049,2025-01-04,Desk Lamp,Electronics,9.0,10334.61,Net Banking,2025,1,January,Saturday,93011.49,Medium
+OR000844,CU00076,2025-01-17,Headphones,Office,9.0,28704.01,Cash,2025,1,January,Friday,258336.09,High
+OR000845,CU00426,2026-08-16,USB Hub,Office,4.0,18856.75,Net Banking,2026,8,August,Sunday,75427.0,Medium
+OR000846,CU00049,2026-03-20,Headphones,Accessories,2.0,19760.95,Debit Card,2026,3,March,Friday,39521.9,Medium
+OR000847,CU00072,2025-12-08,Keyboard,Home,1.0,8578.47,Credit Card,2025,12,December,Monday,8578.47,Low
+OR000848,CU00375,2025-02-23,Wireless Mouse,Office,6.0,10992.2,Debit Card,2025,2,February,Sunday,65953.20000000001,Medium
+OR000849,CU00235,2025-03-31,Wireless Mouse,Office,7.0,14038.35,UPI,2025,3,March,Monday,98268.45,Medium
+OR000850,CU00172,2026-08-20,Monitor,Electronics,9.0,29303.72,Cash,2026,8,August,Thursday,263733.48,High
+OR000851,CU00411,2026-08-08,Webcam,Office,6.0,20060.69,Net Banking,2026,8,August,Saturday,120364.13999999998,High
+OR000852,CU00447,2026-06-13,Laptop Stand,Accessories,3.0,4706.19,UPI,2026,6,June,Saturday,14118.57,Low
+OR000853,CU00059,2026-08-10,Keyboard,Office,1.0,29729.31,Net Banking,2026,8,August,Monday,29729.31,Medium
+OR000854,CU00248,2026-04-30,Laptop Stand,Office,5.0,8151.92,Cash,2026,4,April,Thursday,40759.6,Medium
+OR000855,CU00462,2026-05-21,USB Hub,Accessories,3.0,18689.69,Debit Card,2026,5,May,Thursday,56069.06999999999,Medium
+OR000856,CU00066,2026-07-18,Webcam,Accessories,8.0,26267.35,Cash,2026,7,July,Saturday,210138.8,High
+OR000857,CU00206,2025-10-30,Laptop Stand,Accessories,6.0,18511.22,UPI,2025,10,October,Thursday,111067.32,Medium
+OR000858,CU00097,2025-03-13,Monitor,Accessories,5.0,27785.05,Net Banking,2025,3,March,Thursday,138925.25,High
+OR000859,CU00074,2025-03-21,Wireless Mouse,Home,7.0,25458.04,Net Banking,2025,3,March,Friday,178206.28,High
+OR000860,CU00440,2026-02-24,Laptop Stand,Accessories,5.0,1146.7,Cash,2026,2,February,Tuesday,5733.5,Low
+OR000861,CU00325,2025-05-10,Monitor,Electronics,6.0,20635.77,Credit Card,2025,5,May,Saturday,123814.62,High
+OR000862,CU00063,2025-05-19,USB Hub,Home,7.0,21653.47,UPI,2025,5,May,Monday,151574.29,High
+OR000863,CU00170,2026-08-14,Webcam,Electronics,1.0,11216.86,Credit Card,2026,8,August,Friday,11216.86,Low
+OR000864,CU00158,2025-12-14,Keyboard,Accessories,2.0,27294.98,Debit Card,2025,12,December,Sunday,54589.96,Medium
+OR000865,CU00461,2025-11-13,Headphones,Electronics,5.0,24047.54,Net Banking,2025,11,November,Thursday,120237.70000000001,High
+OR000866,CU00152,2025-08-28,Wireless Mouse,Office,7.0,11075.44,Debit Card,2025,8,August,Thursday,77528.08,Medium
+OR000867,CU00056,2025-06-29,Monitor,Accessories,4.0,6770.18,Cash,2025,6,June,Sunday,27080.72,Medium
+OR000868,CU00493,2025-03-23,Desk Lamp,Home,9.0,6456.19,Debit Card,2025,3,March,Sunday,58105.71,Medium
+OR000869,CU00032,2026-09-20,USB Hub,Accessories,9.0,6694.12,UPI,2026,9,September,Sunday,60247.08,Medium
+OR000870,CU00487,2026-05-07,Wireless Mouse,Electronics,1.0,17717.77,Cash,2026,5,May,Thursday,17717.77,Low
+OR000871,CU00162,2026-07-30,Monitor,Office,6.0,19318.74,Credit Card,2026,7,July,Thursday,115912.44,High
+OR000872,CU00346,2025-07-21,Wireless Mouse,Electronics,1.0,4551.36,Debit Card,2025,7,July,Monday,4551.36,Low
+OR000873,CU00272,2025-03-12,Headphones,Accessories,8.0,16501.05,Credit Card,2025,3,March,Wednesday,132008.4,High
+OR000874,CU00118,2025-03-24,Wireless Mouse,Home,1.0,7583.48,Cash,2025,3,March,Monday,7583.48,Low
+OR000875,CU00272,2026-10-16,Headphones,Electronics,1.0,27321.21,Net Banking,2026,10,October,Friday,27321.21,Medium
+OR000876,CU00090,2026-08-12,Headphones,Office,7.0,25703.56,Cash,2026,8,August,Wednesday,179924.92,High
+OR000877,CU00253,2026-09-14,Webcam,Office,4.0,3557.18,Net Banking,2026,9,September,Monday,14228.72,Low
+OR000878,CU00030,2025-04-01,Wireless Mouse,Accessories,4.0,7643.37,Cash,2025,4,April,Tuesday,30573.48,Medium
+OR000879,CU00117,2025-10-07,Webcam,Accessories,4.0,28341.08,Debit Card,2025,10,October,Tuesday,113364.32,Medium
+OR000880,CU00031,2025-05-18,Keyboard,Electronics,5.0,9039.6,Cash,2025,5,May,Sunday,45198.0,Medium
+OR000881,CU00313,2026-01-26,Wireless Mouse,Accessories,7.0,24493.21,Cash,2026,1,January,Monday,171452.47,High
+OR000882,CU00470,2025-01-16,Webcam,Office,7.0,1608.88,Credit Card,2025,1,January,Thursday,11262.16,Low
+OR000883,CU00022,2025-09-22,Monitor,Office,9.0,11695.11,Credit Card,2025,9,September,Monday,105255.99,Medium
+OR000884,CU00302,2025-12-13,Monitor,Home,5.0,18482.39,UPI,2025,12,December,Saturday,92411.95,Medium
+OR000885,CU00252,2025-07-02,Keyboard,Home,8.0,12046.39,Cash,2025,7,July,Wednesday,96371.12,Medium
+OR000886,CU00099,2026-07-07,Wireless Mouse,Accessories,6.0,23740.46,UPI,2026,7,July,Tuesday,142442.76,High
+OR000887,CU00346,2025-02-19,Laptop Stand,Home,1.0,29399.61,UPI,2025,2,February,Wednesday,29399.61,Medium
+OR000888,CU00390,2026-07-24,Desk Lamp,Home,8.0,15454.62,Net Banking,2026,7,July,Friday,123636.96,High
+OR000889,CU00464,2025-01-07,Laptop Stand,Accessories,4.0,15379.61,UPI,2025,1,January,Tuesday,61518.44,Medium
+OR000890,CU00039,2026-05-13,Monitor,Accessories,5.0,21164.88,Net Banking,2026,5,May,Wednesday,105824.40000000001,Medium
+OR000891,CU00090,2026-03-20,Keyboard,Office,8.0,22635.77,Credit Card,2026,3,March,Friday,181086.16,High
+OR000892,CU00261,2025-11-12,Desk Lamp,Accessories,8.0,1887.96,Net Banking,2025,11,November,Wednesday,15103.68,Low
+OR000893,CU00385,2025-02-02,Headphones,Accessories,9.0,13183.92,Cash,2025,2,February,Sunday,118655.28,High
+OR000894,CU00098,2026-08-19,Laptop Stand,Electronics,5.0,15042.34,UPI,2026,8,August,Wednesday,75211.7,Medium
+OR000895,CU00178,2026-09-02,Wireless Mouse,Home,4.0,9291.76,Cash,2026,9,September,Wednesday,37167.04,Medium
+OR000896,CU00224,2026-05-29,Wireless Mouse,Office,4.0,22796.7,Net Banking,2026,5,May,Friday,91186.8,Medium
+OR000897,CU00330,2026-09-29,Headphones,Electronics,4.0,26620.67,Net Banking,2026,9,September,Tuesday,106482.68,Medium
+OR000898,CU00115,2026-08-18,Laptop Stand,Home,3.0,25375.55,Net Banking,2026,8,August,Tuesday,76126.65,Medium
+OR000899,CU00148,2026-07-07,Wireless Mouse,Home,3.0,19050.08,Credit Card,2026,7,July,Tuesday,57150.240000000005,Medium
+OR000900,CU00069,2025-06-10,USB Hub,Electronics,7.0,23846.62,UPI,2025,6,June,Tuesday,166926.34,High
+OR000901,CU00106,2026-07-10,Wireless Mouse,Office,3.0,7055.56,Credit Card,2026,7,July,Friday,21166.68,Low
+OR000902,CU00463,2026-02-07,USB Hub,Office,6.0,867.83,Debit Card,2026,2,February,Saturday,5206.9800000000005,Low
+OR000903,CU00375,2025-02-22,Keyboard,Electronics,3.0,15452.31,Cash,2025,2,February,Saturday,46356.93,Medium
+OR000904,CU00460,2025-01-15,USB Hub,Accessories,8.0,12358.64,Net Banking,2025,1,January,Wednesday,98869.12,Medium
+OR000905,CU00469,2025-06-20,Laptop Stand,Accessories,4.0,26463.24,Debit Card,2025,6,June,Friday,105852.96,Medium
+OR000906,CU00247,2025-12-15,Keyboard,Accessories,5.0,23694.23,Debit Card,2025,12,December,Monday,118471.15,High
+OR000907,CU00085,2026-10-10,Monitor,Office,9.0,11517.37,Net Banking,2026,10,October,Saturday,103656.33,Medium
+OR000908,CU00393,2026-08-10,USB Hub,Electronics,8.0,621.21,Net Banking,2026,8,August,Monday,4969.68,Low
+OR000909,CU00493,2026-10-12,Webcam,Office,3.0,8318.76,Debit Card,2026,10,October,Monday,24956.28,Low
+OR000910,CU00101,2026-05-10,USB Hub,Office,3.0,10877.15,Debit Card,2026,5,May,Sunday,32631.449999999997,Medium
+OR000911,CU00383,2025-03-27,Keyboard,Home,5.0,20307.49,Credit Card,2025,3,March,Thursday,101537.45000000001,Medium
+OR000912,CU00199,2026-06-04,Wireless Mouse,Home,7.0,27107.99,Credit Card,2026,6,June,Thursday,189755.93000000002,High
+OR000913,CU00463,2025-09-15,Monitor,Accessories,5.0,6706.51,Cash,2025,9,September,Monday,33532.55,Medium
+OR000914,CU00113,2025-08-01,Monitor,Electronics,4.0,23598.74,UPI,2025,8,August,Friday,94394.96,Medium
+OR000915,CU00328,2025-12-21,Laptop Stand,Accessories,6.0,21884.46,Credit Card,2025,12,December,Sunday,131306.76,High
+OR000916,CU00042,2025-09-24,Desk Lamp,Electronics,2.0,10659.29,UPI,2025,9,September,Wednesday,21318.58,Low
+OR000917,CU00464,2026-02-26,Webcam,Office,7.0,583.43,Credit Card,2026,2,February,Thursday,4084.0099999999998,Low
+OR000918,CU00212,2026-10-22,Webcam,Electronics,5.0,1077.86,Cash,2026,10,October,Thursday,5389.299999999999,Low
+OR000919,CU00246,2025-08-03,Desk Lamp,Electronics,6.0,18615.42,Net Banking,2025,8,August,Sunday,111692.51999999999,Medium
+OR000920,CU00372,2025-06-28,Laptop Stand,Office,3.0,25428.95,Credit Card,2025,6,June,Saturday,76286.85,Medium
+OR000921,CU00115,2026-10-12,Webcam,Accessories,4.0,18995.7,Net Banking,2026,10,October,Monday,75982.8,Medium
+OR000922,CU00372,2025-02-27,USB Hub,Electronics,1.0,23232.96,Debit Card,2025,2,February,Thursday,23232.96,Low
+OR000923,CU00058,2026-07-18,Desk Lamp,Electronics,4.0,15135.69,Credit Card,2026,7,July,Saturday,60542.76,Medium
+OR000924,CU00222,2025-09-18,Wireless Mouse,Home,4.0,7959.57,Net Banking,2025,9,September,Thursday,31838.28,Medium
+OR000925,CU00167,2026-10-07,Headphones,Home,5.0,1288.83,Debit Card,2026,10,October,Wednesday,6444.15,Low
+OR000926,CU00223,2026-05-29,Monitor,Office,9.0,24538.62,UPI,2026,5,May,Friday,220847.58,High
+OR000927,CU00288,2025-04-06,USB Hub,Accessories,6.0,14279.52,Credit Card,2025,4,April,Sunday,85677.12,Medium
+OR000928,CU00301,2025-12-17,Keyboard,Office,9.0,26306.4,Credit Card,2025,12,December,Wednesday,236757.6,High
+OR000929,CU00104,2025-06-27,Laptop Stand,Office,2.0,11168.66,UPI,2025,6,June,Friday,22337.32,Low
+OR000930,CU00466,2025-01-30,Webcam,Electronics,9.0,8351.76,Net Banking,2025,1,January,Thursday,75165.84,Medium
+OR000931,CU00330,2026-02-16,Headphones,Home,6.0,20044.74,Cash,2026,2,February,Monday,120268.44,High
+OR000932,CU00075,2026-03-21,Webcam,Accessories,1.0,18169.96,Net Banking,2026,3,March,Saturday,18169.96,Low
+OR000933,CU00078,2026-06-30,Monitor,Accessories,8.0,21156.8,Credit Card,2026,6,June,Tuesday,169254.4,High
+OR000934,CU00203,2026-05-08,Keyboard,Home,2.0,2823.29,Net Banking,2026,5,May,Friday,5646.58,Low
+OR000935,CU00485,2026-02-12,Monitor,Office,8.0,2592.25,Cash,2026,2,February,Thursday,20738.0,Low
+OR000936,CU00452,2026-02-08,Keyboard,Office,3.0,17170.65,Credit Card,2026,2,February,Sunday,51511.950000000004,Medium
+OR000937,CU00120,2026-02-15,Webcam,Home,5.0,16493.36,Credit Card,2026,2,February,Sunday,82466.8,Medium
+OR000938,CU00274,2025-04-25,Monitor,Office,7.0,17567.775,UPI,2025,4,April,Friday,122974.42500000002,High
+OR000939,CU00165,2026-03-04,Headphones,Office,2.0,12962.67,Cash,2026,3,March,Wednesday,25925.34,Low
+OR000940,CU00396,2025-05-08,Headphones,Office,9.0,19044.82,Cash,2025,5,May,Thursday,171403.38,High
+OR000941,CU00370,2026-01-22,USB Hub,Electronics,8.0,16306.62,Debit Card,2026,1,January,Thursday,130452.96,High
+OR000942,CU00231,2025-09-30,Desk Lamp,Home,4.0,5676.47,Net Banking,2025,9,September,Tuesday,22705.88,Low
+OR000943,CU00175,2026-07-21,USB Hub,Home,3.0,27841.59,Cash,2026,7,July,Tuesday,83524.77,Medium
+OR000944,CU00460,2025-08-28,Laptop Stand,Accessories,6.0,1127.44,Cash,2025,8,August,Thursday,6764.64,Low
+OR000945,CU00209,2025-01-05,USB Hub,Electronics,8.0,8250.01,Net Banking,2025,1,January,Sunday,66000.08,Medium
+OR000946,CU00445,2025-03-10,Laptop Stand,Home,1.0,2119.61,Credit Card,2025,3,March,Monday,2119.61,Low
+OR000947,CU00015,2025-05-18,Headphones,Office,2.0,8572.77,Cash,2025,5,May,Sunday,17145.54,Low
+OR000948,CU00223,2026-07-29,Headphones,Accessories,6.0,20590.44,Cash,2026,7,July,Wednesday,123542.63999999998,High
+OR000949,CU00272,2026-05-22,Webcam,Home,3.0,811.88,Net Banking,2026,5,May,Friday,2435.64,Low
+OR000950,CU00003,2026-09-11,USB Hub,Office,9.0,1259.05,Cash,2026,9,September,Friday,11331.449999999999,Low
+OR000951,CU00032,2026-05-06,Webcam,Electronics,5.0,6255.14,Credit Card,2026,5,May,Wednesday,31275.7,Medium
+OR000952,CU00283,2025-04-07,Headphones,Office,6.0,927.71,Net Banking,2025,4,April,Monday,5566.26,Low
+OR000953,CU00374,2025-02-01,USB Hub,Home,5.0,11762.66,Net Banking,2025,2,February,Saturday,58813.3,Medium
+OR000954,CU00102,2026-01-12,Keyboard,Accessories,6.0,6981.43,UPI,2026,1,January,Monday,41888.58,Medium
+OR000955,CU00449,2025-12-24,Webcam,Office,3.0,9732.32,Cash,2025,12,December,Wednesday,29196.96,Medium
+OR000956,CU00121,2025-10-15,Wireless Mouse,Electronics,5.0,25132.69,Credit Card,2025,10,October,Wednesday,125663.45,High
+OR000957,CU00026,2026-01-30,Laptop Stand,Accessories,1.0,13022.79,Credit Card,2026,1,January,Friday,13022.79,Low
+OR000958,CU00215,2025-10-01,Laptop Stand,Accessories,5.0,549.96,Debit Card,2025,10,October,Wednesday,2749.8,Low
+OR000959,CU00056,2025-06-07,Headphones,Electronics,7.0,16449.78,Credit Card,2025,6,June,Saturday,115148.45999999999,High
+OR000960,CU00225,2026-01-24,Desk Lamp,Electronics,4.0,3370.58,Net Banking,2026,1,January,Saturday,13482.32,Low
+OR000961,CU00018,2025-09-22,Monitor,Office,1.0,1874.3,UPI,2025,9,September,Monday,1874.3,Low
+OR000962,CU00430,2025-11-01,USB Hub,Accessories,8.0,9886.7,Net Banking,2025,11,November,Saturday,79093.6,Medium
+OR000963,CU00321,2026-07-08,Wireless Mouse,Accessories,3.0,8235.96,UPI,2026,7,July,Wednesday,24707.879999999997,Low
+OR000964,CU00016,2025-10-30,Laptop Stand,Electronics,6.0,3439.56,Credit Card,2025,10,October,Thursday,20637.36,Low
+OR000965,CU00460,2026-09-21,Headphones,Accessories,7.0,9023.14,Debit Card,2026,9,September,Monday,63161.979999999996,Medium
+OR000966,CU00148,2025-04-07,Wireless Mouse,Accessories,3.0,14573.49,Debit Card,2025,4,April,Monday,43720.47,Medium
+OR000967,CU00253,2026-03-12,Webcam,Home,3.0,7609.12,Net Banking,2026,3,March,Thursday,22827.36,Low
+OR000968,CU00316,2026-04-21,Desk Lamp,Accessories,5.0,1065.75,Cash,2026,4,April,Tuesday,5328.75,Low
+OR000969,CU00202,2025-03-06,Desk Lamp,Office,5.0,26788.74,Debit Card,2025,3,March,Thursday,133943.7,High
+OR000970,CU00311,2026-01-23,USB Hub,Electronics,2.0,19576.98,UPI,2026,1,January,Friday,39153.96,Medium
+OR000971,CU00080,2026-04-26,Keyboard,Electronics,1.0,21228.91,UPI,2026,4,April,Sunday,21228.91,Low
+OR000972,CU00159,2025-02-07,Desk Lamp,Office,1.0,12301.92,Cash,2025,2,February,Friday,12301.92,Low
+OR000973,CU00338,2026-07-04,Laptop Stand,Accessories,3.0,17242.85,Debit Card,2026,7,July,Saturday,51728.549999999996,Medium
+OR000974,CU00089,2025-09-09,Webcam,Accessories,2.0,21119.19,Debit Card,2025,9,September,Tuesday,42238.38,Medium
+OR000975,CU00158,2026-03-07,Desk Lamp,Accessories,7.0,10765.11,Debit Card,2026,3,March,Saturday,75355.77,Medium
+OR000976,CU00139,2025-05-26,Laptop Stand,Office,8.0,24955.25,Net Banking,2025,5,May,Monday,199642.0,High
+OR000977,CU00063,2025-04-05,Wireless Mouse,Accessories,8.0,23193.71,Debit Card,2025,4,April,Saturday,185549.68,High
+OR000978,CU00446,2025-09-18,Webcam,Home,3.0,8683.82,Debit Card,2025,9,September,Thursday,26051.46,Low
+OR000979,CU00491,2025-04-12,Headphones,Electronics,4.0,10050.62,Debit Card,2025,4,April,Saturday,40202.48,Medium
+OR000980,CU00132,2025-03-21,Keyboard,Home,9.0,5599.23,Net Banking,2025,3,March,Friday,50393.06999999999,Medium
+OR000981,CU00426,2026-01-18,Desk Lamp,Home,2.0,15128.34,Credit Card,2026,1,January,Sunday,30256.68,Medium
+OR000982,CU00246,2026-02-13,Headphones,Office,4.0,24358.48,UPI,2026,2,February,Friday,97433.92,Medium
+OR000983,CU00119,2026-09-12,Webcam,Electronics,4.0,16964.04,Net Banking,2026,9,September,Saturday,67856.16,Medium
+OR000984,CU00471,2026-01-25,USB Hub,Accessories,4.0,10705.06,Debit Card,2026,1,January,Sunday,42820.24,Medium
+OR000985,CU00065,2026-01-02,Monitor,Home,9.0,12366.04,Debit Card,2026,1,January,Friday,111294.36000000002,Medium
+OR000986,CU00060,2026-02-01,Monitor,Office,8.0,20808.3,Debit Card,2026,2,February,Sunday,166466.4,High
+OR000987,CU00205,2026-10-26,Laptop Stand,Office,9.0,15476.59,Credit Card,2026,10,October,Monday,139289.31,High
+OR000988,CU00435,2025-09-02,Headphones,Accessories,3.0,16626.29,UPI,2025,9,September,Tuesday,49878.87,Medium
+OR000989,CU00150,2026-04-05,Headphones,Office,1.0,18329.31,Cash,2026,4,April,Sunday,18329.31,Low
+OR000990,CU00371,2026-04-29,Wireless Mouse,Accessories,9.0,22182.44,Debit Card,2026,4,April,Wednesday,199641.96,High
+OR000991,CU00437,2025-04-27,Desk Lamp,Accessories,2.0,18807.15,Cash,2025,4,April,Sunday,37614.3,Medium
+OR000992,CU00243,2026-07-18,USB Hub,Electronics,6.0,20561.38,Cash,2026,7,July,Saturday,123368.28,High
+OR000993,CU00063,2025-10-09,USB Hub,Office,9.0,20017.21,Credit Card,2025,10,October,Thursday,180154.88999999998,High
+OR000994,CU00474,2025-10-06,Wireless Mouse,Home,1.0,27801.31,Debit Card,2025,10,October,Monday,27801.31,Medium
+OR000995,CU00403,2025-05-30,Desk Lamp,Accessories,6.0,13775.08,Cash,2025,5,May,Friday,82650.48,Medium
+OR000996,CU00038,2025-10-17,Laptop Stand,Electronics,9.0,16442.2,Net Banking,2025,10,October,Friday,147979.80000000002,High
+OR000997,CU00290,2026-01-24,Webcam,Accessories,9.0,15462.925,UPI,2026,1,January,Saturday,139166.32499999998,High
+OR000998,CU00427,2026-08-25,Monitor,Accessories,3.0,27021.88,Credit Card,2026,8,August,Tuesday,81065.64,Medium
+OR000999,CU00284,2025-07-30,Wireless Mouse,Office,3.0,10610.29,UPI,2025,7,July,Wednesday,31830.870000000003,Medium

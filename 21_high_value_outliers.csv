@@ -1,0 +1,10 @@
+Order_ID,Customer_ID,Order_Date,Product_Name,Category,Quantity,Unit_Price,Payment_Method,Year,Month,Month_Name,Weekday,Order_Value
+OR000007,CU00348,2026-02-21,Desk Lamp,Home,9.0,29439.23,Credit Card,2026,2,February,Saturday,264953.07
+OR000099,CU00022,2026-03-12,USB Hub,Office,9.0,27847.21,Cash,2026,3,March,Thursday,250624.88999999998
+OR000197,CU00185,2025-09-19,Keyboard,Office,9.0,28439.84,Credit Card,2025,9,September,Friday,255958.56
+OR000307,CU00408,2025-06-13,Monitor,Accessories,9.0,27921.45,Net Banking,2025,6,June,Friday,251293.05000000002
+OR000382,CU00014,2026-03-08,Keyboard,Office,9.0,29073.76,UPI,2026,3,March,Sunday,261663.84
+OR000747,CU00074,2025-05-15,Headphones,Electronics,9.0,27776.65,Credit Card,2025,5,May,Thursday,249989.85
+OR000802,CU00351,2026-02-07,Keyboard,Electronics,9.0,28295.83,Debit Card,2026,2,February,Saturday,254662.47000000003
+OR000844,CU00076,2025-01-17,Headphones,Office,9.0,28704.01,Cash,2025,1,January,Friday,258336.09
+OR000850,CU00172,2026-08-20,Monitor,Electronics,9.0,29303.72,Cash,2026,8,August,Thursday,263733.48
